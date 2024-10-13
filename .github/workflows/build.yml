@@ -27,7 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: build
-        run: 
+        run: |
+          git update-index --chmod=+x ./packwiz
           ./packwiz mr export
         working-directory: ./
       - name: Archive Artifacts
