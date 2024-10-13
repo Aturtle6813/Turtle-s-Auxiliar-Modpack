@@ -1,0 +1,13 @@
+name = "Poème de l'End (End Poem FR)"
+filename = "Poème de l'End.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bCZVdR3o/versions/dr3X1OaR/Po%C3%A8me%20de%20l%27End.zip"
+hash-format = "sha512"
+hash = "bdd15004985c685a8daa9c80b69c0ce1e59fb1152d3c1d65d4e5dd66692686b18f0d110ae82b1d253accb68ba88935e578d99b8bc1c577dd8d5f2082b1cdc032"
+
+[update]
+[update.modrinth]
+mod-id = "bCZVdR3o"
+version = "dr3X1OaR"

@@ -1,0 +1,16 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [{"text": "Turtle's Auxiliar Modpack"}],
+    "bottom_right": [{"text":"Modpack Owner's Bilibili","clickEvent":{"action":"open_url","value":"https://space.bilibili.com/528813523"}}],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [{"text": "Modpack made by Aturtle6813 and WZL0813 for test"}],
+    "bottom_right": [{"text": "Modpack Licensed CC BY-NC-SA-4.0"}],
+    "mod_blacklist": []
+  }
+}

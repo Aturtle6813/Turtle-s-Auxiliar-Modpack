@@ -1,0 +1,13 @@
+name = "End Poem Turkish Translate - Son Şiir Türkçe Çeviri"
+filename = "Son Şiir Çevirisi.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfklOrFU/versions/ocUfZvps/Son%20%C5%9Eiir%20%C3%87evirisi.zip"
+hash-format = "sha512"
+hash = "de8cd4d5b6ac31c8ef3dbb32a2b4fd0ac7451f669b9ebd1a7827b1858da1ce76a81a1815df70b1986586f336b70d0138945de5e2b856a5e4c99b10b7d8c25a55"
+
+[update]
+[update.modrinth]
+mod-id = "lfklOrFU"
+version = "ocUfZvps"

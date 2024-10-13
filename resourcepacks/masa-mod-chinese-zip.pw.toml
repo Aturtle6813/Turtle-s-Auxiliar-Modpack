@@ -1,0 +1,7 @@
+name = "masa-mod-chinese.zip"
+filename = "v1.3.2"
+
+[download]
+url = "https://github.com/DreamingLri/masa-mods-chinese/releases/tag/v1.3.2"
+hash-format = "sha256"
+hash = "06310ec4af59d61291022ff03381767c1f632beaf310ccb1c549f9e5dd649a29"
