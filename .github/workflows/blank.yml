@@ -27,4 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: build pack
-        run: packwiz mr export
+        run: 
+          cd turtle-s-modpack
+          packwiz mr export
