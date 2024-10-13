@@ -78,8 +78,6 @@ Although we advise players uses Prism Launcher to play this modpack,we still sup
 [Masa Family Mods 1.21 Sakura Version](https://github.com/sakura-ryoko)
 
 [Carpet mod for 1.20.6+](https://www.curseforge.com/minecraft/mc-mods/carpet)
-
-[PCA Protocol](https://github.com/Fallen-Breath/pca-protocol)
 </details>
 
 ## **中文**：
@@ -145,6 +143,4 @@ A:
 [Masa全家桶1.21 Sakura版本](https://github.com/sakura-ryoko)
 
 [适用于1.20.6及以上版本的Carpet模组](https://www.curseforge.com/minecraft/mc-mods/carpet)
-
-[PCA Protocol](https://github.com/Fallen-Breath/pca-protocol)
 </details>
