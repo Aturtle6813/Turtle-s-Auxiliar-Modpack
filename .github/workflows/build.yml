@@ -29,7 +29,7 @@ jobs:
       - name: build
         run: |
           git update-index --chmod=+x ./packwiz
-          ./packwiz mr export
+          sudo ./packwiz mr export
         working-directory: ./
       - name: Archive Artifacts
         uses: actions/upload-artifact@v4
