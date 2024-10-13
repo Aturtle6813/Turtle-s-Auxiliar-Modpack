@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/authme.json5"
+hash = "a1e2d6cb594402575879d9d1db79f48d9b5e82b617748f2426e90c1e224066ae"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "1ef33f4f2739c74bf7029a86fe82169a6509f786f694dd298fbd81e9ab57bb07"
+
+[[files]]
+file = "config/yosbr/config/masa_gadget_mod.json"
+hash = "3f4ad41e1d87a82048ac28d5f8cf7f2a2b0bc8432f2bd688f6b9a16e7e9f4b5b"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "00f8091c8ad93538301631c6e262db9fc28a61b5c9643caa072c6a73e5021ce3"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "ba023dd02e9966b3a0fa6ab9b09ff547933c848ae67042995134c2b224fd8cbc"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "032ab7cc2c26e5973341f75e632e27abc5ff200726e32447e0438fb4cedce8d9"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "55df461d7ab935160255b67191e9cee4e24be15f0eadc171f51c246597136c8c"
+
+[[files]]
+file = "config/yosbr/config/tweakermore.json"
+hash = "2cac94181fae2733b51cc61f142272546e70ca7e3c64b16cb63bcd0c14f36ef3"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/settings.json"
+hash = "0e285aab8d1313048ed9e0d8f3838e5e988374c772f8764bd81e9f409ff8043e"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "44c9e1bd79637f86b0bc0163d530482878de28467b169975f6df9cfdd2ded9b8"
+
+[[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "b19f69acb279f35ec871962cd6ef0ac7cd396a6d3f5d0a8e68de40c2d197e30e"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "eb52e85233b489cbe2aff9d00076bb89bbc9f2cc7319dbc324b6d000502a81f8"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "29d4f5f74d29bed3f852f9d7f8576f6c5b19af78f369306fdc39909afe81a28f"
 metafile = true
@@ -303,8 +351,8 @@ hash = "8b6513249fa5416326726f67c4312e44df08576d5710a7d7a08ecae3a782c35c"
 metafile = true
 
 [[files]]
-file = "mods/magiclib.pw.toml"
-hash = "f64acd728f89db97cd7ff22ccf74069ebcd5deff60acc1b6df90fe1acbcdef30"
+file = "mods/magiclib-dev.pw.toml"
+hash = "1ff2ba85ad19f6d1846fd8fb115a30766ddadde966abbdf1b162271476324314"
 metafile = true
 
 [[files]]
@@ -608,9 +656,8 @@ hash = "dad375e309983a8ae45cd0de8a96c3bc38fb9ca5bb7d4404bc5fa231d468970a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/advancementinforeloaded-zip.pw.toml"
-hash = "7e6c646e6f5dd65a537b5219bd1335084043378908159187fd4c11d2b57ba59e"
-metafile = true
+file = "resourcepacks/advancementinforeloaded汉化.zip"
+hash = "6482769caacfe7f58354750928fe1304245f22a3a6954a2ed7479118db74911e"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
@@ -643,8 +690,8 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/masa-mod-chinese-zip.pw.toml"
-hash = "96b2ae8f04bcadee6253166a065cbf66c26da3cbae2174214eba42becc2a22a8"
+file = "resourcepacks/masa-mod-translationpack.pw.toml"
+hash = "b04aff6af147d5db62b0e269a8f098a68cd87857bf310a3bc39f1cb24badf0ee"
 metafile = true
 
 [[files]]
