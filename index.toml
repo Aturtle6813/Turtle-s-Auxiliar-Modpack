@@ -531,11 +531,6 @@ hash = "7797b3e10400ef30c32c5ecdc028a81a382a6a809f6166f9d11a6e1a3f4b5adb"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "350cae93025a258f3bc771bcb63a3b593d4b55663f0007aadd2e73a529dbe21a"
-metafile = true
-
-[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "f1e5d321bb215a744a2f78600ba1fa229d71e3d7f4815c7989dcfe2fdd309d7f"
 metafile = true
@@ -543,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
@@ -628,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "24d93b67436b5500bbcd5fad70a0fdbecffa75d2dcc52f098472bfb112dfcfc4"
 metafile = true
 
 [[files]]
