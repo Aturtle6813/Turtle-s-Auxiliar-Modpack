@@ -26,9 +26,14 @@ jobs:
       - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
+    - name: Set up the working directory
+      run: |
+        mkdir turtle-s-modpack
+      working-directory: ./turtle-s-modpack
       - name: build
         run: 
           packwiz mr export
+        working-directory: ./turtle-s-modpack
       - name: Archive Artifacts
         uses: actions/upload-artifact@v4
         if: success()
