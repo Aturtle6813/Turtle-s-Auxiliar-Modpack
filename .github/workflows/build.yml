@@ -28,12 +28,12 @@ jobs:
       # Runs a single command using the runners shell
       - name: setdirectory
         run: |
-          mkdir turtle-s-modpack
-        working-directory: ./turtle-s-modpack
+          mkdir ./
+        working-directory: ./
       - name: build
         run: 
           packwiz mr export
-        working-directory: ./turtle-s-modpack
+        working-directory: ./
       - name: Archive Artifacts
         uses: actions/upload-artifact@v4
         if: success()
