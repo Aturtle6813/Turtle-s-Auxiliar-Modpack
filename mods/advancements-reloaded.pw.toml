@@ -1,0 +1,13 @@
+name = "AdvancementInfo Reloaded"
+filename = "advancements_reloaded-0.5.0-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/ULbf1HFv/advancements_reloaded-0.5.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "86cd0dff4eb398c45b6285ce77357d51cf1af74b06bade3cfa8ad95382d0bb1c3c8bf5a34c8e1eadf4deb6faa9191a0d3e8642c7c88ba8342defb490ece4a10e"
+
+[update]
+[update.modrinth]
+mod-id = "tLuRLqpa"
+version = "ULbf1HFv"
