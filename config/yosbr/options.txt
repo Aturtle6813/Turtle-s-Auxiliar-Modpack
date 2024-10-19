@@ -1,5 +1,5 @@
 version:3955
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","flat_shulker_icons","file/Translate Mods 1.6.zip","file/NotenoughAnimationsTranslator.zip","file/SodiumTranslations (1).zip","file/advancementinforeloaded汉化.zip","file/masa-mods-chinese.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","flat_shulker_icons","file/Translate Mods 1.6.zip","file/NotenoughAnimationsTranslator.zip","file/SodiumTranslations (1).zip","file/advancementinforeloaded汉化.zip","file/Masa Mod Translation Pack v1.3.1.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["appleskin","clientcommands","controlling","jade","jecharacters","magiclib_malilib_extra","magiclib_minecraft_api","modernfix","replaymod","resourcify","searchables","sodiumleafculling","tweakeroo","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/NotenoughAnimationsTranslator.zip"]
 incompatibleResourcePacks:["appleskin","clientcommands","controlling","jade","jecharacters","modernfix","replaymod","resourcify","searchables","tweakeroo","voxelmap","yet_another_config_lib_v3","file/NotenoughAnimationsTranslator.zip"]
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
