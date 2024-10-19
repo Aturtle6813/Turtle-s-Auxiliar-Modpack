@@ -40,7 +40,7 @@ A:
 
 Q:Report problems?
 
-A:I don't have a way to let Non-Chinese report anything to me so far,may be I will add something here in the future
+A:Check the "Links" part and switch to Github for reporting problems
 
 Q:Will older version will be keep-updated when the new version become released?
 
@@ -74,9 +74,6 @@ Although we advise players uses Prism Launcher to play this modpack,we still sup
 
 <details>
 <summary>Override mods link</summary>
-
-[Masa Family Mods 1.21 Sakura Version](https://github.com/sakura-ryoko)
-
 [Carpet mod for 1.20.6+](https://www.curseforge.com/minecraft/mc-mods/carpet)
 </details>
 
@@ -104,7 +101,7 @@ A:
 
 Q:反馈问题？
 
-A:我暂时还没有想到一个能让玩家反馈Bug的渠道，也许我会在未来添加上我的联系方式
+A:查看右边的“链接（Links）”部分跳转至Github以反馈问题
 
 Q:新的版本更新后，旧版本会继续更新吗？
 
@@ -139,8 +136,5 @@ A:
 
 <details>
 <summary>外部模组链接</summary>
-
-[Masa全家桶1.21 Sakura版本](https://github.com/sakura-ryoko)
-
 [适用于1.20.6及以上版本的Carpet模组](https://www.curseforge.com/minecraft/mc-mods/carpet)
 </details>
