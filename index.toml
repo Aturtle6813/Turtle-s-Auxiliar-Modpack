@@ -33,7 +33,7 @@ hash = "b81b6994fd501fe700f421007a5ac7f36d70fc7f98b696122b3d8193c861ab21"
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "463d0affc036cf47500c1740487316e0aa4a0c5210c73d27487d7db7e7d38315"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cfb7bfb710512a5aa6ce3e687d53ef700b447f8e0c09ae3f9a9ff1f119d7ca8e"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
 
 [[files]]
@@ -122,13 +122,18 @@ hash = "c6bae0ba17af9b9ea48fb16e55b8cadc4313dfd057d0a528d1073b2367a68583"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2143f25027945abd433dfdad9822b9e5519d6c01247027e7e5a9a0ce85902310"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7b8c48f281b3b6e65d1ad9ee6e6ea13e83c26fa687377fa39d11eeafd45ac625"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
@@ -158,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e95a1bfbde846aef49bc1dad1e7c70426329ab6754897f6d2e215f6894eb894b"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -302,7 +307,7 @@ hash = "6482769caacfe7f58354750928fe1304245f22a3a6954a2ed7479118db74911e"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "66cad8ebb10f5cc80b7d57c97c87439783b55f9da4485b08221ed99c37d6c81b"
+hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
 metafile = true
 
 [[files]]
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "42ca3f662c4f8072f3896814fcdcf5971e8b1b8c429f6a08444e7a86087e10ec"
+hash = "878617a91b765f29656663af4fab778b31a03312070abd16b918e9fa471ed031"
 metafile = true
 
 [[files]]
@@ -357,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3f73423da0e8536ba87c88fcbc049f69b4952fd5343226593d4165cf8a8201ca"
+hash = "f09247fde88f7dd897ce8c24b998b14c05feeaec49f1969cdcaf4c472e37c64a"
 metafile = true
 
 [[files]]
