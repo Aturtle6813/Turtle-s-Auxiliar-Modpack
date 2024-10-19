@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "debugify": {
+      "depends": {
+        "minecraft": ""
+      }
+    },
+    "noisium": {
+      "depends": {
+        "minecraft": ""
+      }
+    },
+    "serverlinkssender": {
+      "depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}

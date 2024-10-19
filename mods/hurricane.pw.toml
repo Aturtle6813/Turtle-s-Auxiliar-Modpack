@@ -1,0 +1,13 @@
+name = "Hurricane"
+filename = "hurricane-fabric-2.1.0+build.180.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKrS5WCg/versions/wpMhhaSi/hurricane-fabric-2.1.0%2Bbuild.180.jar"
+hash-format = "sha512"
+hash = "bd17dbdbd0877bf0eec153ea7a42d795a45f556df6ccaedc8148d2a2864bb327bb62890e24ce4cb98d04c7a5d8297c09f4a6ef998bf7c5533e9b1d686626c379"
+
+[update]
+[update.modrinth]
+mod-id = "cKrS5WCg"
+version = "wpMhhaSi"

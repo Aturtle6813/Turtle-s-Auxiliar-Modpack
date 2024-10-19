@@ -1,0 +1,13 @@
+name = "ServerLinksSender"
+filename = "ServerLinksSender-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ubueRLtK/versions/lFTyc5zg/ServerLinksSender-1.0.jar"
+hash-format = "sha512"
+hash = "75325d822fffab1319f90a547e867b2ff23c380d5fe92318ea37cff9e77871d617dfdfa38af8ac84ca88d187e86eb5a9dcc46ec4fcffedae27e1d99103154aa9"
+
+[update]
+[update.modrinth]
+mod-id = "ubueRLtK"
+version = "lFTyc5zg"

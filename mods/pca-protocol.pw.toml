@@ -1,0 +1,7 @@
+name = "pca-protocol"
+filename = "pca-protocol-v0.3.0-mc1.21.jar"
+
+[download]
+url = "https://github.com/Fallen-Breath/pca-protocol/releases/download/pca-protocol_v0.3.0/pca-protocol-v0.3.0-mc1.21.jar"
+hash-format = "sha256"
+hash = "7aecc0cfc37cb84de887bd0d5204937b6d8fc9791e239c9b455f1c5763268e70"

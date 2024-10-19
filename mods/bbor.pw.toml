@@ -1,0 +1,13 @@
+name = "Bounding Box Outline Reloaded"
+filename = "BBOutlineReloaded-2.6-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ECATbUJL/versions/5debFCiR/BBOutlineReloaded-2.6-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "4a75dbc10e9b76229eeef3531afdb9cd83d423d7c012cdc930f249beff05a32298c528ebb72e34d48fb81955c1db1d2ca0703ab95c29fc7886ad510809f4e09e"
+
+[update]
+[update.modrinth]
+mod-id = "ECATbUJL"
+version = "5debFCiR"
