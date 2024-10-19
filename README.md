@@ -33,7 +33,7 @@ A:I'm a Chinese middle school student so the English-ver description may be a li
 
 Q:Report problems?
 
-A:I don't have a way to let Non-Chinese report anything to me so far,may be I will add something here in the future
+A:Check the "Links" part and switch to Github for reporting problems
 
 Q:Will older version will be keep-updated when the new version become released?
 
@@ -68,7 +68,7 @@ Turtle's Optimize Modpack一些优秀、现代、开源的优化模组，如果�
 
 Q:反馈问题？
 
-A:我暂时还没有想到一个能让玩家反馈Bug的渠道，也许我会在未来添加上我的联系方式
+A:查看右边的“链接（Links）”部分跳转至Github以反馈问题
 
 Q:新的版本更新后，旧版本会继续更新吗？
 
