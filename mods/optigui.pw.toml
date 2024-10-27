@@ -1,13 +1,13 @@
 name = "OptiGUI"
-filename = "optigui-2.3.0-beta.6+1.21.jar"
+filename = "optigui-2.3.0-beta.6+1.21.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/rPLGSp71/optigui-2.3.0-beta.6%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/EsA0cp6K/optigui-2.3.0-beta.6%2B1.21.2.jar"
 hash-format = "sha512"
-hash = "63890d26aa3884ee0ecb2b136f0c0ab295437be96f9ce3a207686f4e6ec3e04ddcbf35261a872da409f6f3506e9ae413d4e36cb49d06840762de2468737c0e14"
+hash = "47a6080c4f715bf71fcbd9f48af165b55427d6f8507f1f0036573b2e3ea1b42630efc2723778db481c24888c7f02b4eb7818f9e220c4e8d44dd301a5495efc0e"
 
 [update]
 [update.modrinth]
 mod-id = "JuksLGBQ"
-version = "rPLGSp71"
+version = "EsA0cp6K"

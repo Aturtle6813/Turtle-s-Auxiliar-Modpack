@@ -1,13 +1,13 @@
 name = "XK Redstone Display"
-filename = "XKRD 红显v3.3for1.21.zip"
+filename = "XKRD红显3.4for1.20.2~1.21.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4ueVo9s5/versions/ufraiN36/XKRD%20%E7%BA%A2%E6%98%BEv3.3for1.21.zip"
+url = "https://cdn.modrinth.com/data/4ueVo9s5/versions/EqN5uyZP/XKRD%E7%BA%A2%E6%98%BE3.4for1.20.2~1.21.3.zip"
 hash-format = "sha512"
-hash = "16db31c65fec41ba711d54f1f4f52b6de07b6bb24e45c58bb86d9d1a46585e4b24dfb644552defea0fed06ed79bbd9606cc533f4935973c463321bfb6d0fda05"
+hash = "b25f3247b949453ad634c44bd68de1c37658a8b0daada7f1bc7950c330d5e41ef2cc205f1810bb96923fc90aad2a681630bc7eb7bddfd69cde0c23a01a3bb614"
 
 [update]
 [update.modrinth]
 mod-id = "4ueVo9s5"
-version = "ufraiN36"
+version = "EqN5uyZP"

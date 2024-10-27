@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-fabric-0.6.0-beta.2+mc1.21.1.jar"
+filename = "sodium-fabric-0.6.0-beta.3+mc1.21.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/CcIWi5Av/sodium-fabric-0.6.0-beta.2%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/YWD36TtF/sodium-fabric-0.6.0-beta.3%2Bmc1.21.2.jar"
 hash-format = "sha512"
-hash = "cca337b62e66dba14755ede43e44b0156df0bdeba28651f1a1ac3b7e0f6f8de9995dbbafb21a753a6d409d8de7e36bf56227fd1c359b3931bded75999f81dabc"
+hash = "bf1ebf525540752a03de122dff69f35a41aa6aa13b6765701865d6d49b1014bd70ae0334bac6fbc30a12ec2d4a7afa945a9979c3bf40f906ea9e1bad2fc5a370"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "CcIWi5Av"
+version = "YWD36TtF"

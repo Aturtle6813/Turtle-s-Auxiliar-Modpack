@@ -1,13 +1,13 @@
 name = "Hey Wiki"
-filename = "heywiki-fabric-1.6.4+1.21.1.jar"
+filename = "heywiki-fabric-1.7.0+1.21.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6DnswkCZ/versions/JMid9Uxj/heywiki-fabric-1.6.4%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/6DnswkCZ/versions/BRu8hQyM/heywiki-fabric-1.7.0%2B1.21.2.jar"
 hash-format = "sha512"
-hash = "86bab77236ee654910c7c9d18e15d17aa887172248163d68a9c0541a4f90531fa4baafa71f28a4ca834b2282347c937afa8963a556f52b1d1a64d667f153cf42"
+hash = "0cd86d047bb775522306bd4fa147b2044a0ddeb68e0424832ffe7239db99519a29cfbcc020561a89209cdf658e885b03da9cf006d052f3ccff7d3fd8c63cd213"
 
 [update]
 [update.modrinth]
 mod-id = "6DnswkCZ"
-version = "JMid9Uxj"
+version = "BRu8hQyM"
