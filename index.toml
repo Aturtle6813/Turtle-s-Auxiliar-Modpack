@@ -9,12 +9,12 @@ file = "README.md"
 hash = "2d33c0d8d75da9ef8433dfbfecce960489979e4c8ec07806e377c66178061ce3"
 
 [[files]]
-file = "config/yosbr/config/authme.json5"
-hash = "755a3fb0f051f76d3c1fbf726d7b42f3efe134c9d86d4269ef1aae840da2e723"
+file = "config/isxander-main-menu-credits.json"
+hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
 [[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
+file = "config/yosbr/config/authme.json5"
+hash = "755a3fb0f051f76d3c1fbf726d7b42f3efe134c9d86d4269ef1aae840da2e723"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c372d1c34a4eaa662eb565757ec3ac38eb9cdd6c8d7a43431a6d97e11b3fabb8"
+hash = "559ca4a9df9b5bba623f0bd371063435ebc312aa97bdf1cfb4193625f2d4c872"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "8dbf5b28ec03d9aacebd933af529dbfb0d17aa25108baa474373165b2b989ebc"
+hash = "4d9f43c04fcc0568c500b66e8bcce383b9e3d8ee883cae5d08d5b1655149a8b2"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a112512699928e5504f2e826194c60881f949902fee6c6bef5f3539fcb90db75"
+hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b0664d65ddd932bf1cade2c28c8e9a68eddbc64de3e97613d7cd5fdab118243e"
+hash = "06ddd8c864842300bce18aee050a9ec6c018cdb0a06508ca2e5c60d76357f814"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "42814c28bde508ad6e083582c46a817ed5b82724283af18e35ba0093dda8d323"
+hash = "faf73f436a58c66ae9731ccc082596cd73954da0c3b60bf8e93033a760a80707"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
-hash = "b04aff6af147d5db62b0e269a8f098a68cd87857bf310a3bc39f1cb24badf0ee"
+hash = "5ab7b6f69a05d157a54a0b00a531ebffe5636b3b532b7f153ee4d91367792345"
 metafile = true
 
 [[files]]

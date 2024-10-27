@@ -1,13 +1,13 @@
 name = "Masa Mod Translation Pack"
-filename = "Masa Mod Translation Pack v1.3.1.zip"
+filename = "masa-mods-chinese.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/8O5PnV48/Masa%20Mod%20Translation%20Pack%20v1.3.1.zip"
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/zxu1PMCp/masa-mods-chinese.zip"
 hash-format = "sha512"
-hash = "6a0d3dd1d0002c65b2f0cf4e39b1f75de0e63c002262ba19a546c0605bc4adaabea7261289b9835d0ef4655ed6d4307c90c135efce86093183abce7e129e8ecf"
+hash = "668528409c489ff2b238700fc5a26164dfe02f8852294ab665827992709f04a34e6c963938eea199b64f83f102b10a39c354cb5b1d850b8e1125cbb4e603652f"
 
 [update]
 [update.modrinth]
 mod-id = "IEt3hTCe"
-version = "8O5PnV48"
+version = "zxu1PMCp"

@@ -1,13 +1,13 @@
 name = "Clean F3"
-filename = "CleanF3-mc1.20.x-0.4.7.jar"
+filename = "CleanF3-mc1.20.x-0.4.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/wlkuB5Lc/CleanF3-mc1.20.x-0.4.7.jar"
+url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/No0FqbjC/CleanF3-mc1.20.x-0.4.8.jar"
 hash-format = "sha512"
-hash = "120bfb9779d9913fb05397cb7c0a1aec091f7f779f25a718d3552af17d75721d8f4b5074b0434f39575373b7bf5194199edce5e97f44bd01db3c53c16fd6d63c"
+hash = "6645631d75f569ffbd6f02e088c85c7a4efd0cc6660897cb6fd4afa3821597282b7bc17f5deb1c68a68ff8c23223f72259291ec5ddf1845bdb512463432849dc"
 
 [update]
 [update.modrinth]
 mod-id = "5lvjfaRs"
-version = "wlkuB5Lc"
+version = "No0FqbjC"
