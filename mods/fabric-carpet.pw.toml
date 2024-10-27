@@ -1,0 +1,15 @@
+name = "fabric-carpet"
+filename = "fabric-carpet-1.21.2-1.4.158+v241022.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gnembon/fabric-carpet/releases/download/1.4.158/fabric-carpet-1.21.2-1.4.158%2Bv241022.jar"
+hash-format = "sha256"
+hash = "57a1e59452042de9d79ef3ac1803d9855fbfd6e59b3a836648d6dbf31fc8e630"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "gnembon/fabric-carpet"
+tag = "1.4.158"

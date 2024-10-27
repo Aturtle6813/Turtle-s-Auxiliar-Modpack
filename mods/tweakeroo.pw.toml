@@ -1,13 +1,15 @@
-name = "Tweakeroo"
-filename = "tweakeroo-fabric-1.21.1-0.21.50.jar"
-side = "client"
+name = "tweakeroo"
+filename = "tweakeroo-fabric-1.21.3-0.22.0-sakura.2.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5wuYk45/versions/jVwm5ULD/tweakeroo-fabric-1.21.1-0.21.50.jar"
-hash-format = "sha512"
-hash = "d8e30926194114a8f8621e85d9613c0c17c38254c15a0f892cee193622547174d8af5d44f0be74a9fd20db1b3018a4b0d129334d5a21cc02735b364831f44c4a"
+url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21.3-0.22.0-sakura.2/tweakeroo-fabric-1.21.3-0.22.0-sakura.2.jar"
+hash-format = "sha256"
+hash = "e4bea4d0e92bd494089c04e433b1a203e4066b5f26bd0c5690e5e34029e73fb1"
 
 [update]
-[update.modrinth]
-mod-id = "t5wuYk45"
-version = "jVwm5ULD"
+[update.github]
+branch = "pre-rewrite/fabric/1.21.3"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sakura-ryoko/tweakeroo"
+tag = "1.21.3-0.22.0-sakura.2"

@@ -116,10 +116,6 @@ hash = "73b1542ee5c5e86a248fba50feee7b9a78dce3b520159d31a2044f0a286db6e8"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition-v1.63.2-mc1.21.1+build.1822.jar"
-hash = "65ce57987b15ea1fe4b52a27117aa2f0ac5af48feacc741b39b5a78582a67132"
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
 metafile = true
@@ -235,8 +231,9 @@ hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet-1.21.1-1.4.147+v240813.jar"
-hash = "9a666bfc02ff6b901e284326f449a2014919102e97b3d5c14b0a3e37f1ae1b00"
+file = "mods/fabric-carpet.pw.toml"
+hash = "ba8c1501fbd272043ced0b43219434cb0ec5426634f89cac659224a89d8b49b6"
+metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
@@ -314,11 +311,6 @@ hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "1dcbc28e643a1f9bc2cf52d54bd677a27902fe7f4eaa1dabf33efac1c0291f47"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "028375b9c27285827cb36bb064f92cabb4a1efe8beb13a9833ea31fa1b2a174a"
 metafile = true
@@ -344,7 +336,7 @@ hash = "36d98f4ee11811c7f2704f7e7cf242e51e2bfc93d792a4a1377fec90b86bf4ff"
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "70aba2cddcb488b124a0c6d999807213647f8adac78268ba697a927f72aaa619"
+hash = "982db7a5df3c212f9838d83ef8ba5ba2b1cb398cf1bd64f27d59a9eb7521e4f1"
 metafile = true
 
 [[files]]
@@ -358,8 +350,8 @@ hash = "8e2a125b6c2ba0775718f185d43ba3ca50ffe40ea4ce0620c87aef66cf4ed425"
 metafile = true
 
 [[files]]
-file = "mods/magiclib.pw.toml"
-hash = "62ea160c4893f02a7f3997cc1deae10d8bbdc8209d24b12539831142a6c85a82"
+file = "mods/magiclib-dev.pw.toml"
+hash = "4a431053d35dea44779b3e211342dcf41d01d83e8b7387d3577c0c7c55fd7462"
 metafile = true
 
 [[files]]
@@ -369,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dd941ad7e4c054475831614e7d8197684c3f0667075b8b69dc093da4ab653755"
+hash = "cb575d68d080ac8da53e5347b52b798b98589814a749df05f76ce8d43f109b7c"
 metafile = true
 
 [[files]]
@@ -389,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8398cec04596b79a214a123655f48a3a1c70f9a3e6c6f8582d6f9f58c17a0bc6"
+hash = "9e44cfec669f5473b768c0c23018dde5a07ac80e1a2ba0c663ec6f3bf689ccb6"
 metafile = true
 
 [[files]]
@@ -559,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "d771bcc3bd317bfb05da49d0677c636f692aa3c2c8102fadb6e53c8d29dc8874"
+hash = "af2d76339198b69205079ae8d0faeb8dc774601bc59877cfb5a2146d0c04f587"
 metafile = true
 
 [[files]]
@@ -584,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "b22dd89e6e8c48ab09014fc3ec3242cba86e2d171bb6b4f44b5c057e7bb9637f"
+hash = "6c03b61e564488dbee4c0b11b84ac1326c039c955114720dc9bbc606422e5ca3"
 metafile = true
 
 [[files]]
