@@ -1,6 +1,6 @@
 name = "Turtle's Auxiliar Modpack"
 author = "Aturtle6813"
-version = "mc1.21.1-1.2.7"
+version = "mc1.21.3-1.3.0-beta.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,4 @@ hash = "67d7e886876e2056dd897460fd293c949b16ba7f41f9ff43d3d0b3d55aefc3a6"
 
 [versions]
 fabric = "0.16.7"
-minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = ["1.21", "1.21.1", "1.21.x"]
+minecraft = "1.21.3"
