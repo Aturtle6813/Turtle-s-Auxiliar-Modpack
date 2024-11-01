@@ -116,6 +116,11 @@ hash = "73b1542ee5c5e86a248fba50feee7b9a78dce3b520159d31a2044f0a286db6e8"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "a537b031c3439fcc983f22f377b944ad8b3f1c858c017cdfd6b12f58d9a78a4b"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
 metafile = true
@@ -475,6 +480,11 @@ hash = "b344aec1fe20466a08c85a112b8d38149c2ec6d4bb22dc1cca4582b387ba6026"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "00029b4f6debd8b7d171878f9b10bc2152ae33b97556e2d4a2e1c2c55089c88d"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
 hash = "8f1ea5b9400414545a97108fcf7c1f192a20ead6c87e879f44ee88cfc5ae2ac9"
 metafile = true
@@ -622,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
-metafile = true
-
-[[files]]
-file = "mods/xanders-sodium-options.pw.toml"
-hash = "24d93b67436b5500bbcd5fad70a0fdbecffa75d2dcc52f098472bfb112dfcfc4"
 metafile = true
 
 [[files]]
