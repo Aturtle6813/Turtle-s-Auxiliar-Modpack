@@ -1,6 +1,6 @@
 name = "servux"
 filename = "servux-fabric-1.21.3-0.4.0-sakura.3.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.3-sakura.3/servux-fabric-1.21.3-0.4.0-sakura.3.jar"
