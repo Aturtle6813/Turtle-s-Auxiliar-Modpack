@@ -71,11 +71,6 @@ hash = "52a769b5f59fda34a63b680ba2c1703228e365032dc9874af7f2da7d73202ebd"
 metafile = true
 
 [[files]]
-file = "disabled mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "disabled mods/continuity.pw.toml"
 hash = "5d67c84143ca1e1598f6704f6377bd9c6b129ac95e08a7daee1a77a615286916"
 metafile = true
@@ -83,11 +78,6 @@ metafile = true
 [[files]]
 file = "disabled mods/controlling.pw.toml"
 hash = "9f6b11064f3ec9e1a96e0d54f69648b90f845c7076397e7354d7da24a104973d"
-metafile = true
-
-[[files]]
-file = "disabled mods/customskinloader.pw.toml"
-hash = "cf14a5458439fac4cd696cd92e5dcff9d67e80c1de9486bb60f4baa91faf9a49"
 metafile = true
 
 [[files]]
@@ -205,6 +195,10 @@ hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
 metafile = true
 
 [[files]]
+file = "mods/CustomSkinLoader_Fabric-14.20.1-SNAPSHOT-43.jar"
+hash = "66b19ca6bef2b5269c5a151debbaab07c614a44fd0404eab418a4f5d873b5f6d"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "af050505897718f6691a85ac9ffdf0f1129d14a99d92347f450abcecd31f6e0d"
 metafile = true
@@ -264,6 +258,11 @@ hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "4d9f43c04fcc0568c500b66e8bcce383b9e3d8ee883cae5d08d5b1655149a8b2"
 metafile = true
@@ -277,6 +276,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
+
+[[files]]
+file = "mods/continuity-3.0.0-beta.6+1.21.jar"
+hash = "b8496d620a600b0163756be8954ebb529723fdbef763262bfeadfccab6575a65"
 
 [[files]]
 file = "mods/controlify.pw.toml"
