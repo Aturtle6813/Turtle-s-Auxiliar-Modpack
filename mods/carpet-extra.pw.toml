@@ -1,6 +1,6 @@
 name = "Carpet Extra"
 filename = "carpet-extra-1.21-1.4.148.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VX3TgwQh/versions/8gEVsK18/carpet-extra-1.21-1.4.148.jar"
