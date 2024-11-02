@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9827009bdb13feed1931d3034522e55c978e3e4cf1e92f971b299408a10297fb"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -398,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "a762916260051644f4c9dfdbe4a551e532c5c50bd9eba3c6d6e9cfccc9d7b323"
 metafile = true
 
 [[files]]
