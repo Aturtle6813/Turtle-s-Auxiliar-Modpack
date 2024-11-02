@@ -60,5 +60,5 @@
     "long_sneaking": "auto",
     "legacy_mining_speeds": "auto"
   },
-  "selected-protocol-version": "1.21"
+  "selected-protocol-version": "auto"
 }
