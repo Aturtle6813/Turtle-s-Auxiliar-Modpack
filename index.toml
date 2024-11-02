@@ -151,6 +151,11 @@ hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "ca6e52b8a96c4ce864f14c29a7a3b63f7a53b9b4d5e81ed45cff26ebd9bca5e9"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "3fa2fe8518693b1b847572ebc51b7ba005e9046e400fc8140ad095c1e79f1382"
 metafile = true
@@ -281,6 +286,11 @@ hash = "982db7a5df3c212f9838d83ef8ba5ba2b1cb398cf1bd64f27d59a9eb7521e4f1"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "bcbb257fa5a3130cc0a5bbc2a8cb43c67ab746fcce5b85956abfea4d67ff8df8"
+metafile = true
+
+[[files]]
 file = "mods/magiclib-dev.pw.toml"
 hash = "b22a64f73f381a1efabfa43bdfd29f14767850e7fb00d98fb24547c8ad77e66c"
 metafile = true
@@ -401,8 +411,18 @@ hash = "5cbba09638556de527e2927f5f39cda3e20fcc538d619154607569d2310f2c4c"
 metafile = true
 
 [[files]]
+file = "mods/serverlinkssender.pw.toml"
+hash = "d24f8135016366c3d3e05b095f01d9750f8bdabb1b0816458ddf00aa87b5ce1d"
+metafile = true
+
+[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "79788a85c3b4f8123c79f1f646679c3670d145776f3c67f2de3a4e703c138666"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "a80aa10fc91e14ced31c02a30acdf2d79443a235fa1ed9e3251ec3379585d577"
 metafile = true
 
 [[files]]
@@ -453,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "6c03b61e564488dbee4c0b11b84ac1326c039c955114720dc9bbc606422e5ca3"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "3f77e1338349b8f019a11b67b8e4c84055d43fc0183ddd83c2fc5ac3cb3d6538"
 metafile = true
 
 [[files]]
