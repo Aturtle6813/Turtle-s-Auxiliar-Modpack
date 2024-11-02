@@ -34,7 +34,7 @@ hash = "bc5c92a84635bea90aa190af52a396286521ee37b592abe3dc83f597ec491023"
 
 [[files]]
 file = "config/yosbr/config/viafabricplus/settings.json"
-hash = "1249f206f03348cdd508bde8e9836b990824df1f0a75f6e1bf1499e35494dcd8"
+hash = "0d1ec9d6e2092ce31c4e097c822a0c15092b79e5655f037bec031bead413e8b4"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
