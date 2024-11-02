@@ -5,10 +5,6 @@ file = "LICENCE"
 hash = "047d2259741a3ebb30d8c8a43d4ba79b5b229a069acd1d2bea49f22b297d8e98"
 
 [[files]]
-file = "README.md"
-hash = "2d33c0d8d75da9ef8433dfbfecce960489979e4c8ec07806e377c66178061ce3"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
@@ -55,144 +51,6 @@ hash = "b19f69acb279f35ec871962cd6ef0ac7cd396a6d3f5d0a8e68de40c2d197e30e"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "ca3305a4188873f42941974ac8525e7e123feb5e65780d8f9265c47d66b8097b"
-
-[[files]]
-file = "disabled mods/MasaGadget-mc1.21.3-fabric-4.0.375-beta.jar"
-hash = "3db0e06c1b48bb35e09b9812d2e30d1db76947ed038f2877eae178541dce3e40"
-
-[[files]]
-file = "disabled mods/animatica.pw.toml"
-hash = "ccabf86379e6ad72c3eaef3abb3827eec2b9ab2b87882cc9bcd309250b99e7ca"
-metafile = true
-
-[[files]]
-file = "disabled mods/auth-me.pw.toml"
-hash = "52a769b5f59fda34a63b680ba2c1703228e365032dc9874af7f2da7d73202ebd"
-metafile = true
-
-[[files]]
-file = "disabled mods/continuity.pw.toml"
-hash = "5d67c84143ca1e1598f6704f6377bd9c6b129ac95e08a7daee1a77a615286916"
-metafile = true
-
-[[files]]
-file = "disabled mods/controlling.pw.toml"
-hash = "9f6b11064f3ec9e1a96e0d54f69648b90f845c7076397e7354d7da24a104973d"
-metafile = true
-
-[[files]]
-file = "disabled mods/debugify.pw.toml"
-hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
-metafile = true
-
-[[files]]
-file = "disabled mods/ebe.pw.toml"
-hash = "36d26044eeb09dc7a9cfc9be1970f4e2fdca97a8d9e51dc211bb026d4b63aa6a"
-metafile = true
-
-[[files]]
-file = "disabled mods/emi-loot.pw.toml"
-hash = "99836a189bb3f6c94f7b3119f7d29270a33287e8ae65d0fbd4aaa7015e4dc283"
-metafile = true
-
-[[files]]
-file = "disabled mods/emi.pw.toml"
-hash = "e371bc65a8b7db3fd089cfbf80d5335b487488f0fe8b306d3e491aee756c6a21"
-metafile = true
-
-[[files]]
-file = "disabled mods/fabricskyboxes-interop.pw.toml"
-hash = "7a944898ca727ea37e870d86b1989e6ce10562daf9157c674f4f1aed196247f8"
-metafile = true
-
-[[files]]
-file = "disabled mods/fabricskyboxes.pw.toml"
-hash = "817f300a2c0386539cbeea4ef97df5d09bb67fde18997af2e9be853937faa4d4"
-metafile = true
-
-[[files]]
-file = "disabled mods/litematica-printer-all-2.4+20240811.jar"
-hash = "36d98f4ee11811c7f2704f7e7cf242e51e2bfc93d792a4a1377fec90b86bf4ff"
-
-[[files]]
-file = "disabled mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
-metafile = true
-
-[[files]]
-file = "disabled mods/macos-input-fixes.pw.toml"
-hash = "8e2a125b6c2ba0775718f185d43ba3ca50ffe40ea4ce0620c87aef66cf4ed425"
-metafile = true
-
-[[files]]
-file = "disabled mods/modernfix.pw.toml"
-hash = "4fe5680c0425a6dccd57ab2eee1324b283a80a5a1a6799f348a243b7e738c63e"
-metafile = true
-
-[[files]]
-file = "disabled mods/mpalladium.pw.toml"
-hash = "059ac74f63d4d66fbde7e9ace5adedfb74d2f5d217e20b5efa7421d02126db7d"
-metafile = true
-
-[[files]]
-file = "disabled mods/not-enough-animations.pw.toml"
-hash = "5afc5700a4a0b88be9264fb6d900ff44bebd9708cd0014ae44605a7b4540747a"
-metafile = true
-
-[[files]]
-file = "disabled mods/polytone.pw.toml"
-hash = "228ddcfbbd6d63fb2eed547479ba1b7416aa3fbe0fa88af77a6da606991e3d7d"
-metafile = true
-
-[[files]]
-file = "disabled mods/presence-footsteps.pw.toml"
-hash = "708af6424c9eef8d86847d93d7c33dee603cfe7f43e0608d2d6655b642b770c4"
-metafile = true
-
-[[files]]
-file = "disabled mods/puzzle.pw.toml"
-hash = "b344aec1fe20466a08c85a112b8d38149c2ec6d4bb22dc1cca4582b387ba6026"
-metafile = true
-
-[[files]]
-file = "disabled mods/replaymod.pw.toml"
-hash = "8f1ea5b9400414545a97108fcf7c1f192a20ead6c87e879f44ee88cfc5ae2ac9"
-metafile = true
-
-[[files]]
-file = "disabled mods/searchables.pw.toml"
-hash = "b4c77a1ddc441052b26440e527ae73e9afc463e57b2c80769c41d893daec6334"
-metafile = true
-
-[[files]]
-file = "disabled mods/threadtweak.pw.toml"
-hash = "125171299b2cd518eb3a27bb421ff39e5580b1eac900c9498df1d1a3cdb7a865"
-metafile = true
-
-[[files]]
-file = "disabled mods/tweakermore.pw.toml"
-hash = "12d4b3443c52fe26bd6877476e0631194eeb52ebfb17acf85680662630711cf6"
-metafile = true
-
-[[files]]
-file = "disabled mods/world-preview.pw.toml"
-hash = "5b5e98434604c0c8a4acb3142f15523225daf07ac9c67579922df3d758e9464a"
-metafile = true
-
-[[files]]
-file = "disabled mods/xaeroplus.pw.toml"
-hash = "aae70e743d5f6234344d093617e3eb29db4c193b32253c94f0b986800ebba254"
-metafile = true
-
-[[files]]
-file = "disabled mods/xaeros-minimap.pw.toml"
-hash = "7605838c20709450c00ec0c90be40bc0050095f98f005358f0d54bd2d2dc3168"
-metafile = true
-
-[[files]]
-file = "disabled mods/xaeros-world-map.pw.toml"
-hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
-metafile = true
 
 [[files]]
 file = "mods/CustomSkinLoader_Fabric-14.20.1-SNAPSHOT-43.jar"
@@ -255,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
