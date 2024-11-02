@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENCE"
-hash = "047d2259741a3ebb30d8c8a43d4ba79b5b229a069acd1d2bea49f22b297d8e98"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
