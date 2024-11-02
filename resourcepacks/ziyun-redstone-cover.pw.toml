@@ -1,0 +1,13 @@
+name = "Redstone Display Overlaid"
+filename = "ZiYunPixel-v1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/GvtgXsdU/ZiYunPixel-v1.4.zip"
+hash-format = "sha512"
+hash = "81df0d7d35cbb292bdf2d725b94a6dfb1211bddd6432276f0b839b9d8f51626ae6def8d23ddb026f5d5d1f1b262f5aa6e376be39daedaa81f689aa64f945005d"
+
+[update]
+[update.modrinth]
+mod-id = "4PRyIWGr"
+version = "GvtgXsdU"

@@ -1,0 +1,15 @@
+name = "syncmatica"
+filename = "syncmatica-fabric-1.21.3-0.3.12-sakura.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21.3-sakura.9/syncmatica-fabric-1.21.3-0.3.12-sakura.9.jar"
+hash-format = "sha256"
+hash = "a429971ab9e5e6fe829f9dae77756e740f8fe055bfb0c3ca549a94a57c29961c"
+
+[update]
+[update.github]
+branch = "1.21.3"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sakura-ryoko/syncmatica"
+tag = "1.21.3-sakura.9"

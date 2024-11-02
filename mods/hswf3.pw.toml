@@ -1,0 +1,13 @@
+name = "Hide Scoreboard When F3"
+filename = "hswf3-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XUAqRQnx/versions/nzTddhXI/hswf3-1.0.1.jar"
+hash-format = "sha512"
+hash = "b3415575fb010ac78247efc6ab186278fe4b9353bd0dd69750de7715e45117546ee436d8d16f3953bf43b58642ae1e3f53992ff09045b2a5e252edd262d919ba"
+
+[update]
+[update.modrinth]
+mod-id = "XUAqRQnx"
+version = "nzTddhXI"

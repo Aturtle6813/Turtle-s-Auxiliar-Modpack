@@ -1,0 +1,13 @@
+name = "ClientCommands"
+filename = "ClientCommands-0.7.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dpf21Aa3/versions/bNSjIKbS/ClientCommands-0.7.1.jar"
+hash-format = "sha512"
+hash = "912d19ebca4a9e51afbd329593788b9963c83bd2c7cf516c4f272de937466361509f9033630c4cea0c66103791080b5682126b1ad3c9498f314c4d03a40e8e32"
+
+[update]
+[update.modrinth]
+mod-id = "Dpf21Aa3"
+version = "bNSjIKbS"

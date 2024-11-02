@@ -1,0 +1,13 @@
+name = "Translate Mods"
+filename = "Translate Mods 1.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wr1RQ7IX/versions/ElOIxZUY/Translate%20Mods%201.6.zip"
+hash-format = "sha512"
+hash = "5ea2b5762f2e88c5bbd099fa5d146bde8997398a165fbb9ef308b4645bdcab0add810c69e7d77b66edaa5b480848332e7c4b77e3ee37ca158d5b03c2d2c6a886"
+
+[update]
+[update.modrinth]
+mod-id = "wr1RQ7IX"
+version = "ElOIxZUY"

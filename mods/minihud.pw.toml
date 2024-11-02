@@ -1,0 +1,15 @@
+name = "minihud"
+filename = "minihud-fabric-1.21.3-0.33.0-sakura.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21.3-0.33.0-sakura.3/minihud-fabric-1.21.3-0.33.0-sakura.3.jar"
+hash-format = "sha256"
+hash = "211bfb9c247013ff5a7dfd088b61ede58918da92080022042027ee2b8ad126a1"
+
+[update]
+[update.github]
+branch = "pre-rewrite/fabric/1.21.3"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sakura-ryoko/minihud"
+tag = "1.21.3-0.33.0-sakura.3"

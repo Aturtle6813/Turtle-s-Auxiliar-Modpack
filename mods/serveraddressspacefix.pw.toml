@@ -1,0 +1,13 @@
+name = "ServerAddressSpaceFix"
+filename = "ServerAddressSpaceFix-0.2.1 mc1.21+1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJGSUuLp/versions/uNFxGG4a/ServerAddressSpaceFix-0.2.1%20mc1.21%2B1.21.x.jar"
+hash-format = "sha512"
+hash = "d6baba3fbfd224ff749594b37f8a9d6014dec8ea60b2f98bab353738d96f9c0c72c313ffff8b566ff925d23739e9674f6b25b159a7846be35ae52f622c90a98c"
+
+[update]
+[update.modrinth]
+mod-id = "NJGSUuLp"
+version = "uNFxGG4a"
