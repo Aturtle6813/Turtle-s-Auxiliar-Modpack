@@ -93,12 +93,7 @@ hash = "b81b6994fd501fe700f421007a5ac7f36d70fc7f98b696122b3d8193c861ab21"
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"
-hash = "b894decb37751fe60bad47cb518b78331569eb159bcb9baf4f9d3fb4880075c4"
-metafile = true
-
-[[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "73b1542ee5c5e86a248fba50feee7b9a78dce3b520159d31a2044f0a286db6e8"
+hash = "3fb27c4cc56011b1699e00f8a469adb3d2d3de6a8545e48177b6a2eb8bdd8b49"
 metafile = true
 
 [[files]]
@@ -152,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "ca6e52b8a96c4ce864f14c29a7a3b63f7a53b9b4d5e81ed45cff26ebd9bca5e9"
+hash = "004ca50bff2771a21d96ec7858078fc7ae05ac896eccc53b6129f1ddae7d0267"
 metafile = true
 
 [[files]]
@@ -228,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "06ddd8c864842300bce18aee050a9ec6c018cdb0a06508ca2e5c60d76357f814"
-metafile = true
-
-[[files]]
-file = "mods/gca.pw.toml"
-hash = "23c4329baa09513ad1e83fd1fc06a1acadd01f54b139f090a7e37295293284bc"
 metafile = true
 
 [[files]]
@@ -351,11 +341,6 @@ hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "5856f4957a831c7c1fcef292186d3bfdbf29696bf541d2621544e3bec1265b02"
-metafile = true
-
-[[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "b36c8cb2182871509a1c8ea3e578acf992e54da5fc2633c3883c174d430ef7d3"
 metafile = true
@@ -398,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
-metafile = true
-
-[[files]]
-file = "mods/server-replay.pw.toml"
-hash = "a762916260051644f4c9dfdbe4a551e532c5c50bd9eba3c6d6e9cfccc9d7b323"
 metafile = true
 
 [[files]]
