@@ -57,6 +57,44 @@ file = "config/yosbr/options.txt"
 hash = "ca3305a4188873f42941974ac8525e7e123feb5e65780d8f9265c47d66b8097b"
 
 [[files]]
+file = "disabled mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
+file = "disabled mods/controlling.pw.toml"
+hash = "9f6b11064f3ec9e1a96e0d54f69648b90f845c7076397e7354d7da24a104973d"
+metafile = true
+
+[[files]]
+file = "disabled mods/debugify.pw.toml"
+hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
+metafile = true
+
+[[files]]
+file = "disabled mods/litematica-printer-all-2.4+20240811.jar"
+hash = "36d98f4ee11811c7f2704f7e7cf242e51e2bfc93d792a4a1377fec90b86bf4ff"
+
+[[files]]
+file = "disabled mods/lithium.pw.toml"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "disabled mods/masa-gadget.pw.toml"
+hash = "50cdfe77d554b361ac1dab774bcbe7e7fb3ae313a6aafae3b1378ae7780c8460"
+metafile = true
+
+[[files]]
+file = "disabled mods/searchables.pw.toml"
+hash = "b4c77a1ddc441052b26440e527ae73e9afc463e57b2c80769c41d893daec6334"
+metafile = true
+
+[[files]]
+file = "mods/MasaGadget-mc1.21.3-fabric-4.0.375-beta.jar"
+hash = "3db0e06c1b48bb35e09b9812d2e30d1db76947ed038f2877eae178541dce3e40"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "af050505897718f6691a85ac9ffdf0f1129d14a99d92347f450abcecd31f6e0d"
 metafile = true
@@ -126,11 +164,6 @@ hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "4d9f43c04fcc0568c500b66e8bcce383b9e3d8ee883cae5d08d5b1655149a8b2"
 metafile = true
@@ -156,11 +189,6 @@ hash = "9140b66e8acb149d35a2a719b772a7cfbd379a1fd1419787eac65734c0462af4"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "9f6b11064f3ec9e1a96e0d54f69648b90f845c7076397e7354d7da24a104973d"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
@@ -168,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "cf14a5458439fac4cd696cd92e5dcff9d67e80c1de9486bb60f4baa91faf9a49"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
 metafile = true
 
 [[files]]
@@ -237,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "9b43367969bb47ac394c6e146fe1d976c4149c30f91b1a232864ae9d08753f09"
+hash = "7716c8f6e9d54ea518f52d7e2e1af4e4d17f86d47ceed965791cffff55a405cd"
 metafile = true
 
 [[files]]
@@ -336,17 +359,8 @@ hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer-all-2.4+20240811.jar"
-hash = "36d98f4ee11811c7f2704f7e7cf242e51e2bfc93d792a4a1377fec90b86bf4ff"
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "982db7a5df3c212f9838d83ef8ba5ba2b1cb398cf1bd64f27d59a9eb7521e4f1"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
@@ -367,11 +381,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "ce1a89225eea4d7df42274f72dfad1fd03af643a87ed3a4f1cb1b28ac2b3433f"
-metafile = true
-
-[[files]]
-file = "mods/masa-gadget.pw.toml"
-hash = "50cdfe77d554b361ac1dab774bcbe7e7fb3ae313a6aafae3b1378ae7780c8460"
 metafile = true
 
 [[files]]
@@ -502,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "b4c77a1ddc441052b26440e527ae73e9afc463e57b2c80769c41d893daec6334"
 metafile = true
 
 [[files]]
