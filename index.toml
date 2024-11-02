@@ -57,6 +57,10 @@ file = "config/yosbr/options.txt"
 hash = "ca3305a4188873f42941974ac8525e7e123feb5e65780d8f9265c47d66b8097b"
 
 [[files]]
+file = "disabled mods/MasaGadget-mc1.21.3-fabric-4.0.375-beta.jar"
+hash = "3db0e06c1b48bb35e09b9812d2e30d1db76947ed038f2877eae178541dce3e40"
+
+[[files]]
 file = "disabled mods/animatica.pw.toml"
 hash = "ccabf86379e6ad72c3eaef3abb3827eec2b9ab2b87882cc9bcd309250b99e7ca"
 metafile = true
@@ -79,6 +83,11 @@ metafile = true
 [[files]]
 file = "disabled mods/controlling.pw.toml"
 hash = "9f6b11064f3ec9e1a96e0d54f69648b90f845c7076397e7354d7da24a104973d"
+metafile = true
+
+[[files]]
+file = "disabled mods/customskinloader.pw.toml"
+hash = "cf14a5458439fac4cd696cd92e5dcff9d67e80c1de9486bb60f4baa91faf9a49"
 metafile = true
 
 [[files]]
@@ -196,10 +205,6 @@ hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
 metafile = true
 
 [[files]]
-file = "mods/MasaGadget-mc1.21.3-fabric-4.0.375-beta.jar"
-hash = "3db0e06c1b48bb35e09b9812d2e30d1db76947ed038f2877eae178541dce3e40"
-
-[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "af050505897718f6691a85ac9ffdf0f1129d14a99d92347f450abcecd31f6e0d"
 metafile = true
@@ -281,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "cf14a5458439fac4cd696cd92e5dcff9d67e80c1de9486bb60f4baa91faf9a49"
 metafile = true
 
 [[files]]
@@ -596,11 +596,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "98ba867dd49c9933653d53906d54b1716b2b89f2d9d9ea18b1db433af73dfacf"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "260f120f9d421a63ec31adf4f7c9245ec7f47cc3075c99aa327c05083cafbcab"
 metafile = true
 
 [[files]]
