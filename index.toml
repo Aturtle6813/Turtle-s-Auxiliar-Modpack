@@ -57,8 +57,23 @@ file = "config/yosbr/options.txt"
 hash = "ca3305a4188873f42941974ac8525e7e123feb5e65780d8f9265c47d66b8097b"
 
 [[files]]
+file = "disabled mods/animatica.pw.toml"
+hash = "ccabf86379e6ad72c3eaef3abb3827eec2b9ab2b87882cc9bcd309250b99e7ca"
+metafile = true
+
+[[files]]
+file = "disabled mods/auth-me.pw.toml"
+hash = "52a769b5f59fda34a63b680ba2c1703228e365032dc9874af7f2da7d73202ebd"
+metafile = true
+
+[[files]]
 file = "disabled mods/cit-resewn.pw.toml"
 hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
+file = "disabled mods/continuity.pw.toml"
+hash = "5d67c84143ca1e1598f6704f6377bd9c6b129ac95e08a7daee1a77a615286916"
 metafile = true
 
 [[files]]
@@ -72,6 +87,31 @@ hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
 metafile = true
 
 [[files]]
+file = "disabled mods/ebe.pw.toml"
+hash = "36d26044eeb09dc7a9cfc9be1970f4e2fdca97a8d9e51dc211bb026d4b63aa6a"
+metafile = true
+
+[[files]]
+file = "disabled mods/emi-loot.pw.toml"
+hash = "99836a189bb3f6c94f7b3119f7d29270a33287e8ae65d0fbd4aaa7015e4dc283"
+metafile = true
+
+[[files]]
+file = "disabled mods/emi.pw.toml"
+hash = "e371bc65a8b7db3fd089cfbf80d5335b487488f0fe8b306d3e491aee756c6a21"
+metafile = true
+
+[[files]]
+file = "disabled mods/fabricskyboxes-interop.pw.toml"
+hash = "7a944898ca727ea37e870d86b1989e6ce10562daf9157c674f4f1aed196247f8"
+metafile = true
+
+[[files]]
+file = "disabled mods/fabricskyboxes.pw.toml"
+hash = "817f300a2c0386539cbeea4ef97df5d09bb67fde18997af2e9be853937faa4d4"
+metafile = true
+
+[[files]]
 file = "disabled mods/litematica-printer-all-2.4+20240811.jar"
 hash = "36d98f4ee11811c7f2704f7e7cf242e51e2bfc93d792a4a1377fec90b86bf4ff"
 
@@ -81,13 +121,78 @@ hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
-file = "disabled mods/masa-gadget.pw.toml"
-hash = "50cdfe77d554b361ac1dab774bcbe7e7fb3ae313a6aafae3b1378ae7780c8460"
+file = "disabled mods/macos-input-fixes.pw.toml"
+hash = "8e2a125b6c2ba0775718f185d43ba3ca50ffe40ea4ce0620c87aef66cf4ed425"
+metafile = true
+
+[[files]]
+file = "disabled mods/modernfix.pw.toml"
+hash = "4fe5680c0425a6dccd57ab2eee1324b283a80a5a1a6799f348a243b7e738c63e"
+metafile = true
+
+[[files]]
+file = "disabled mods/mpalladium.pw.toml"
+hash = "059ac74f63d4d66fbde7e9ace5adedfb74d2f5d217e20b5efa7421d02126db7d"
+metafile = true
+
+[[files]]
+file = "disabled mods/not-enough-animations.pw.toml"
+hash = "5afc5700a4a0b88be9264fb6d900ff44bebd9708cd0014ae44605a7b4540747a"
+metafile = true
+
+[[files]]
+file = "disabled mods/polytone.pw.toml"
+hash = "228ddcfbbd6d63fb2eed547479ba1b7416aa3fbe0fa88af77a6da606991e3d7d"
+metafile = true
+
+[[files]]
+file = "disabled mods/presence-footsteps.pw.toml"
+hash = "708af6424c9eef8d86847d93d7c33dee603cfe7f43e0608d2d6655b642b770c4"
+metafile = true
+
+[[files]]
+file = "disabled mods/puzzle.pw.toml"
+hash = "b344aec1fe20466a08c85a112b8d38149c2ec6d4bb22dc1cca4582b387ba6026"
+metafile = true
+
+[[files]]
+file = "disabled mods/replaymod.pw.toml"
+hash = "8f1ea5b9400414545a97108fcf7c1f192a20ead6c87e879f44ee88cfc5ae2ac9"
 metafile = true
 
 [[files]]
 file = "disabled mods/searchables.pw.toml"
 hash = "b4c77a1ddc441052b26440e527ae73e9afc463e57b2c80769c41d893daec6334"
+metafile = true
+
+[[files]]
+file = "disabled mods/threadtweak.pw.toml"
+hash = "125171299b2cd518eb3a27bb421ff39e5580b1eac900c9498df1d1a3cdb7a865"
+metafile = true
+
+[[files]]
+file = "disabled mods/tweakermore.pw.toml"
+hash = "12d4b3443c52fe26bd6877476e0631194eeb52ebfb17acf85680662630711cf6"
+metafile = true
+
+[[files]]
+file = "disabled mods/world-preview.pw.toml"
+hash = "5b5e98434604c0c8a4acb3142f15523225daf07ac9c67579922df3d758e9464a"
+metafile = true
+
+[[files]]
+file = "disabled mods/xaeroplus.pw.toml"
+hash = "aae70e743d5f6234344d093617e3eb29db4c193b32253c94f0b986800ebba254"
+metafile = true
+
+[[files]]
+file = "disabled mods/xaeros-minimap.pw.toml"
+hash = "7605838c20709450c00ec0c90be40bc0050095f98f005358f0d54bd2d2dc3168"
+metafile = true
+
+[[files]]
+file = "disabled mods/xaeros-world-map.pw.toml"
+hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
 metafile = true
 
 [[files]]
@@ -100,11 +205,6 @@ hash = "af050505897718f6691a85ac9ffdf0f1129d14a99d92347f450abcecd31f6e0d"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "ccabf86379e6ad72c3eaef3abb3827eec2b9ab2b87882cc9bcd309250b99e7ca"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -112,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "c517eccd62ae7e0b30463a781f243fa608ace64f8734862e8813fc6082e7c337"
-metafile = true
-
-[[files]]
-file = "mods/auth-me.pw.toml"
-hash = "52a769b5f59fda34a63b680ba2c1703228e365032dc9874af7f2da7d73202ebd"
 metafile = true
 
 [[files]]
@@ -179,11 +274,6 @@ hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "5d67c84143ca1e1598f6704f6377bd9c6b129ac95e08a7daee1a77a615286916"
-metafile = true
-
-[[files]]
 file = "mods/controlify.pw.toml"
 hash = "9140b66e8acb149d35a2a719b772a7cfbd379a1fd1419787eac65734c0462af4"
 metafile = true
@@ -224,21 +314,6 @@ hash = "160675aea9dd418d7b0a4720dca60b68f15ed8c96bd63ee3583f207e8fae8625"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "36d26044eeb09dc7a9cfc9be1970f4e2fdca97a8d9e51dc211bb026d4b63aa6a"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "99836a189bb3f6c94f7b3119f7d29270a33287e8ae65d0fbd4aaa7015e4dc283"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "e371bc65a8b7db3fd089cfbf80d5335b487488f0fe8b306d3e491aee756c6a21"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "c2210a58773af364184cb114d27c53412c9f1d2df31d39d38a80a3883252ad54"
 metafile = true
@@ -260,22 +335,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "7716c8f6e9d54ea518f52d7e2e1af4e4d17f86d47ceed965791cffff55a405cd"
+hash = "650baa472771782bd79f772987ba40c0a8c243722bfa6e2d7a8df4df1b8aee35"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "9827009bdb13feed1931d3034522e55c978e3e4cf1e92f971b299408a10297fb"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "7a944898ca727ea37e870d86b1989e6ce10562daf9157c674f4f1aed196247f8"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "817f300a2c0386539cbeea4ef97df5d09bb67fde18997af2e9be853937faa4d4"
 metafile = true
 
 [[files]]
@@ -364,11 +429,6 @@ hash = "982db7a5df3c212f9838d83ef8ba5ba2b1cb398cf1bd64f27d59a9eb7521e4f1"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "8e2a125b6c2ba0775718f185d43ba3ca50ffe40ea4ce0620c87aef66cf4ed425"
-metafile = true
-
-[[files]]
 file = "mods/magiclib-dev.pw.toml"
 hash = "b22a64f73f381a1efabfa43bdfd29f14767850e7fb00d98fb24547c8ad77e66c"
 metafile = true
@@ -409,11 +469,6 @@ hash = "a48bd4d3738edab1995567d18fb769f1625a8c919408aad3b81fc806688745d2"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "4fe5680c0425a6dccd57ab2eee1324b283a80a5a1a6799f348a243b7e738c63e"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b1c44fce799dc98d07a3b5b28ea58ddb3ed19a16e5caffa1e736275aab026286"
 metafile = true
@@ -429,11 +484,6 @@ hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "059ac74f63d4d66fbde7e9ace5adedfb74d2f5d217e20b5efa7421d02126db7d"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
 metafile = true
@@ -441,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "5856f4957a831c7c1fcef292186d3bfdbf29696bf541d2621544e3bec1265b02"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "5afc5700a4a0b88be9264fb6d900ff44bebd9708cd0014ae44605a7b4540747a"
 metafile = true
 
 [[files]]
@@ -474,28 +519,8 @@ hash = "90c4e2a4c42f9cab7b9fd7ad860fdabb7f6d63c461a54ae3ba570f4580db9254"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "228ddcfbbd6d63fb2eed547479ba1b7416aa3fbe0fa88af77a6da606991e3d7d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "708af6424c9eef8d86847d93d7c33dee603cfe7f43e0608d2d6655b642b770c4"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "b344aec1fe20466a08c85a112b8d38149c2ec6d4bb22dc1cca4582b387ba6026"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "00029b4f6debd8b7d171878f9b10bc2152ae33b97556e2d4a2e1c2c55089c88d"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "8f1ea5b9400414545a97108fcf7c1f192a20ead6c87e879f44ee88cfc5ae2ac9"
 metafile = true
 
 [[files]]
@@ -574,18 +599,8 @@ hash = "98ba867dd49c9933653d53906d54b1716b2b89f2d9d9ea18b1db433af73dfacf"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "125171299b2cd518eb3a27bb421ff39e5580b1eac900c9498df1d1a3cdb7a865"
-metafile = true
-
-[[files]]
 file = "mods/toadlib.pw.toml"
 hash = "260f120f9d421a63ec31adf4f7c9245ec7f47cc3075c99aa327c05083cafbcab"
-metafile = true
-
-[[files]]
-file = "mods/tweakermore.pw.toml"
-hash = "12d4b3443c52fe26bd6877476e0631194eeb52ebfb17acf85680662630711cf6"
 metafile = true
 
 [[files]]
@@ -609,11 +624,6 @@ hash = "a0478c37ec11704dc5136a4e92e9e0b54e3dc89e114bc6504692e8adfe4d423c"
 metafile = true
 
 [[files]]
-file = "mods/world-preview.pw.toml"
-hash = "5b5e98434604c0c8a4acb3142f15523225daf07ac9c67579922df3d758e9464a"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bb709ad9f91ead47cccd5c31d679e5821449c2170e366b7b34553783e9615783"
 metafile = true
@@ -621,21 +631,6 @@ metafile = true
 [[files]]
 file = "mods/x+-autofish.pw.toml"
 hash = "dfd13b8acfc958a01004c20a08cf3bf63c2e5af9e3c9e11d1eeff0e7cdb2a8d4"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "aae70e743d5f6234344d093617e3eb29db4c193b32253c94f0b986800ebba254"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "7605838c20709450c00ec0c90be40bc0050095f98f005358f0d54bd2d2dc3168"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "e3be2c63f8f4d20897cc2e3192c9c30f3fd92c321e975437c9b3e98963a68962"
 metafile = true
 
 [[files]]
