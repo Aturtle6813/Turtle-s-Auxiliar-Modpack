@@ -141,11 +141,6 @@ hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
-file = "mods/dma.pw.toml"
-hash = "ef3be57f1dafa7859193ea1cf969c345060915133578551dd13ea5b8d2517991"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
@@ -351,11 +346,6 @@ hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "71af14ebfcb04edd9e7b6e76c9d97512b3dde51b79fc803996514c8f6169c86b"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
 metafile = true
@@ -492,11 +482,6 @@ hash = "1c008f5f234fa9f2f0707169604baa1246cb05b47b0488ec92036ee016aff2e1"
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "646214379e10e7cd4e187017dd5a85050888eedbb2d2c312ceb3beeb89eab6cc"
 metafile = true
 
 [[files]]
