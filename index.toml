@@ -97,8 +97,18 @@ file = "mods/caramelChat-mc1.21.1-fabric-1.2.1-SNAPSHOT.jar"
 hash = "b81b6994fd501fe700f421007a5ac7f36d70fc7f98b696122b3d8193c861ab21"
 
 [[files]]
+file = "mods/carpet-ams-addition.pw.toml"
+hash = "5fefc53a311fa51433bfd2d272849b78d15e0646b3382ed06d5077edad4cf092"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra-extras.pw.toml"
 hash = "3fb27c4cc56011b1699e00f8a469adb3d2d3de6a8545e48177b6a2eb8bdd8b49"
+metafile = true
+
+[[files]]
+file = "mods/carpet-org-addition.pw.toml"
+hash = "73bdffbc8a86726084d69d39d6c76afd1561965ab1eab8b23835c45b18428be6"
 metafile = true
 
 [[files]]
