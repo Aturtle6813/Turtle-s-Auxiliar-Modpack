@@ -49,10 +49,6 @@ file = "config/yosbr/options.txt"
 hash = "b1e21719fef4f45fa2fb38f255f120f731209b09d3fa4baa2d6b8d40e2f29780"
 
 [[files]]
-file = "mods/CustomSkinLoader_Fabric-14.20.1-SNAPSHOT-43.jar"
-hash = "66b19ca6bef2b5269c5a151debbaab07c614a44fd0404eab418a4f5d873b5f6d"
-
-[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "af050505897718f6691a85ac9ffdf0f1129d14a99d92347f450abcecd31f6e0d"
 metafile = true
