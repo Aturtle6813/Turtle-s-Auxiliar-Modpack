@@ -151,6 +151,11 @@ hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "575424b704c03f04ad5571cac9fc41bdabeaa8c10b3810202d88c1e229a6cea0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
