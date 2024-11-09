@@ -246,6 +246,11 @@ hash = "b1d7033dfe049cc4c199cbc0bdc6bbbacb4a71d02cfaa31c7a07b9064e635e12"
 metafile = true
 
 [[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ef269caaa262a2239c2c89d93f8f52aed1b75504e4e10408d802e962853fd2f3"
 metafile = true
