@@ -1,15 +1,15 @@
 name = "servux"
-filename = "servux-fabric-1.21.3-0.4.0-sakura.3.jar"
+filename = "servux-fabric-1.21.3-0.4.0-sakura.4.jar"
 side = "server"
 
 [download]
-url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.3-sakura.3/servux-fabric-1.21.3-0.4.0-sakura.3.jar"
+url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.3-0.4.0-sakura.4/servux-fabric-1.21.3-0.4.0-sakura.4.jar"
 hash-format = "sha256"
-hash = "3d143c3b42ab31ea5ad2ff11e6b7e71f999f25f0a1037ece15470fc086a4c6d1"
+hash = "961a734afa3868523dc4693a647cdd8b126e6ab4920170cdef64d962551ab1ac"
 
 [update]
 [update.github]
 branch = "fabric_1.21.3"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "sakura-ryoko/servux"
-tag = "1.21.3-sakura.3"
+tag = "1.21.3-0.4.0-sakura.4"
