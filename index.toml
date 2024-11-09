@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "abd50b3c38738d8e69ab76dd8bd12452664c9077b90cf2a40521bea51660fb9b"
+hash = "386e990c85e864cd14bc4188750c0acb8f221f90b87377e91d122c88d9fac665"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e8561c2711bbb2e7b551d03c89c41a257774af6107bdb727484056d582679e47"
+hash = "d680e60ee913ab45067cfadd0e8ad36dc0f127da7f5a7bd9058981ec83c936b5"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "a537b031c3439fcc983f22f377b944ad8b3f1c858c017cdfd6b12f58d9a78a4b"
+hash = "d212a09a80cce66a6309e7899e5952b5f2195b2d9ed69516a1a77bbe8ed9786e"
 metafile = true
 
 [[files]]
@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bab4a9a4177f633e2a9d5c4d4bbd00f5bfa056324e7351a863ffb41d360f2baa"
+hash = "1954c04611da9977b602a9be0af6646e0b57309d507b85c63c67799db2e22b2d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
+hash = "6424d0bd607f839372a3da21e53604cd1554a8289348f987c850a1fc01e8b5c7"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
+hash = "2ce5cc0ad6076c948c14ebef6c507438737ef985934352a0dd5d5bd9104a82fc"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "982db7a5df3c212f9838d83ef8ba5ba2b1cb398cf1bd64f27d59a9eb7521e4f1"
+hash = "d5e0a3c76947a5f4d1e74329929dc00b31fc1b6c4014f7027c9733fc16b05cdd"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ce1a89225eea4d7df42274f72dfad1fd03af643a87ed3a4f1cb1b28ac2b3433f"
+hash = "88c9a6419441a7e51b616273ef093e925b7b08983edab96dcdf7f9b47984e058"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2fd46274c6c65450e25963ed4adb59fb46debaf94c828c6a51aab0979e23b614"
+hash = "92af079d49d033fd4f352834f42e765dad0d2f2befa3ab4abea52f293993e4b8"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "a4ac0f879273f3019ed0e8850a3f95501c98e5eabb9b3ac4e97e4ba0c95d9716"
+hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "5cbba09638556de527e2927f5f39cda3e20fcc538d619154607569d2310f2c4c"
+hash = "45f014af98779f008f023fbc8d398b9d1e76ef7f2dfbf9240dbb26fdb4bba4bb"
 metafile = true
 
 [[files]]
@@ -452,17 +452,17 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "af2d76339198b69205079ae8d0faeb8dc774601bc59877cfb5a2146d0c04f587"
+hash = "d409a9962bbc9d70b6c31a12f1924c86e3732f3ec15702cea816919b915473d8"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "98ba867dd49c9933653d53906d54b1716b2b89f2d9d9ea18b1db433af73dfacf"
+hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6c03b61e564488dbee4c0b11b84ac1326c039c955114720dc9bbc606422e5ca3"
+hash = "c03d2005e64cee1811e5f3cbbe28aa2adf75a7c602bea0aede23ad5616560304"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
-hash = "5ab7b6f69a05d157a54a0b00a531ebffe5636b3b532b7f153ee4d91367792345"
+hash = "94cf1d4915219742e96bc218ff45a25e95c8d6a330aff0b141ee35cfc10a65c3"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "094f9dd6fb72537d63b10f6f6d51b73ee55595c7f0abf36ba665081f121492e6"
+hash = "1c2428e1b0493f044f4fcd6528e9f432725fa8dfb18894703152d6f81586fb32"
 metafile = true
 
 [[files]]

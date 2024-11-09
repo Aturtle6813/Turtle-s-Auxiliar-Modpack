@@ -1,15 +1,15 @@
 name = "minihud"
-filename = "minihud-fabric-1.21.3-0.33.0-sakura.3.jar"
+filename = "minihud-fabric-1.21.3-0.33.0-sakura.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21.3-0.33.0-sakura.3/minihud-fabric-1.21.3-0.33.0-sakura.3.jar"
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21.3-0.33.0-sakura.5/minihud-fabric-1.21.3-0.33.0-sakura.5.jar"
 hash-format = "sha256"
-hash = "211bfb9c247013ff5a7dfd088b61ede58918da92080022042027ee2b8ad126a1"
+hash = "316283fbc2586e26ff50811234988a7cadd9ddaeb7c0269a0ffcadcc53802467"
 
 [update]
 [update.github]
 branch = "pre-rewrite/fabric/1.21.3"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "sakura-ryoko/minihud"
-tag = "1.21.3-0.33.0-sakura.3"
+tag = "1.21.3-0.33.0-sakura.5"
