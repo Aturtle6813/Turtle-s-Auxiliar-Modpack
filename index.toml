@@ -68,6 +68,11 @@ hash = "c517eccd62ae7e0b30463a781f243fa608ace64f8734862e8813fc6082e7c337"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "d142ed11ea6d49755ff160532d99e5733c9d76dc20c461b43a55d0b6102cbb81"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
@@ -79,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d680e60ee913ab45067cfadd0e8ad36dc0f127da7f5a7bd9058981ec83c936b5"
+hash = "0836f4e10a000486233fa6451452105066bf79a8561821823c4ccdd0aa5b7247"
 metafile = true
 
 [[files]]
@@ -312,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "92af079d49d033fd4f352834f42e765dad0d2f2befa3ab4abea52f293993e4b8"
+hash = "fc805313159e88b3bc6f99f74dbf65e2f6b8f45fa5ec2b3cfc12ec9167446f3e"
 metafile = true
 
 [[files]]
@@ -341,8 +346,13 @@ hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "71af14ebfcb04edd9e7b6e76c9d97512b3dde51b79fc803996514c8f6169c86b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
+hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
 metafile = true
 
 [[files]]
@@ -371,8 +381,23 @@ hash = "90c4e2a4c42f9cab7b9fd7ad860fdabb7f6d63c461a54ae3ba570f4580db9254"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "5118828f042b9a50e97f906d36b732b261bd83f65c0b07e1ebd7258578f3f3d0"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "2912afb1010c3ca055faa50056ce2adf233923bb6330e0802b7f552b1fadfc6c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "00029b4f6debd8b7d171878f9b10bc2152ae33b97556e2d4a2e1c2c55089c88d"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "1a2487e3aa6569f30117b27ffbbb35792c8b9f1880dc48cf4f48138a642741a8"
 metafile = true
 
 [[files]]
@@ -388,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "9d083a879ab69efc17d3d94618fa6d3ae54cd3b3dae8b301b8defe33339773a1"
 metafile = true
 
 [[files]]
@@ -412,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "4b2b937fde44b5e79f051ba39631ca0f57fc3bf4cd43d095055f62c0b5fdfa5d"
+hash = "f0f1c5f6ba2672e0c943e79b729ff64280adb8f86baf8efa48f22f0f61cdaefc"
 metafile = true
 
 [[files]]
@@ -451,9 +481,8 @@ hash = "2538b3295c29b13d69b2360af58a19c2edd1790bfdc7f446d57b7d9e72641d0a"
 metafile = true
 
 [[files]]
-file = "mods/syncmatica.pw.toml"
-hash = "d409a9962bbc9d70b6c31a12f1924c86e3732f3ec15702cea816919b915473d8"
-metafile = true
+file = "mods/syncmatica-fabric-1.21.3-0.3.12-sakura.10.jar"
+hash = "1c008f5f234fa9f2f0707169604baa1246cb05b47b0488ec92036ee016aff2e1"
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
