@@ -1,0 +1,13 @@
+name = "Carpet Extra"
+filename = "carpet-extra-1.21.2-1.4.158.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VX3TgwQh/versions/WDB4578I/carpet-extra-1.21.2-1.4.158.jar"
+hash-format = "sha512"
+hash = "b520c9ca9a186645117bc83026964e513c8bdbdf8abfb9f4429340b96fbc8d1df0652936562a3c966690c6806c603151bf5c3a7e84d38c80c91a75725cdd4810"
+
+[update]
+[update.modrinth]
+mod-id = "VX3TgwQh"
+version = "WDB4578I"
