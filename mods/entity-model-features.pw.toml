@@ -1,4 +1,5 @@
 name = "[EMF] Entity Model Features"
+filename = "entity_model_features_fabric_1.21.3-2.3.0.jar"
 side = "client"
 
 [download]
