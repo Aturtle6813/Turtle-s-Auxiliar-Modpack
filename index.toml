@@ -103,6 +103,11 @@ hash = "3fb27c4cc56011b1699e00f8a469adb3d2d3de6a8545e48177b6a2eb8bdd8b49"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "0399485b9cf1038731eed46011e7e48713f8bfe2f324d09eddaffa76e3c1db9d"
+metafile = true
+
+[[files]]
 file = "mods/carpet-org-addition.pw.toml"
 hash = "73bdffbc8a86726084d69d39d6c76afd1561965ab1eab8b23835c45b18428be6"
 metafile = true
@@ -110,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "d212a09a80cce66a6309e7899e5952b5f2195b2d9ed69516a1a77bbe8ed9786e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "b1cd73231544d2e55928071c3685f6a3df0e8b72725ca6c10d9ee2b7c816b166"
 metafile = true
 
 [[files]]
@@ -194,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6424d0bd607f839372a3da21e53604cd1554a8289348f987c850a1fc01e8b5c7"
-metafile = true
-
-[[files]]
-file = "mods/fabric-carpet.pw.toml"
-hash = "650baa472771782bd79f772987ba40c0a8c243722bfa6e2d7a8df4df1b8aee35"
 metafile = true
 
 [[files]]
@@ -297,6 +302,11 @@ hash = "d5e0a3c76947a5f4d1e74329929dc00b31fc1b6c4014f7027c9733fc16b05cdd"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "9b29ae99d79593df0ca70661e04a96f5e871ef631d703216f6a1c3aec61b9c12"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "bcbb257fa5a3130cc0a5bbc2a8cb43c67ab746fcce5b85956abfea4d67ff8df8"
 metafile = true
@@ -359,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1818c649f9e717420b712bb5c056f145476d79ca18fb8e3633838338046d4df0"
 metafile = true
 
 [[files]]
@@ -528,6 +543,21 @@ metafile = true
 [[files]]
 file = "mods/x+-autofish.pw.toml"
 hash = "dfd13b8acfc958a01004c20a08cf3bf63c2e5af9e3c9e11d1eeff0e7cdb2a8d4"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "ce35ca54aadd24d182ab1b7ab3ce653d03da25e938d5ca2c5bc6cb257c7698d3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0f20c51b06c9041e58a88fb30e9a968c50f30f8c87ad7c7f99a0816ca0fad8e2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ce89f7e3ab5b053cd3d45c257164c952ac55e7a9fc11d471a4b6799e2397677d"
 metafile = true
 
 [[files]]
