@@ -1,13 +1,13 @@
 name = "AdvancementInfo Reloaded"
-filename = "advancements_reloaded-0.6.0-fabric-1.21.1.jar"
+filename = "advancements_reloaded-0.7.0-fabric-1.21.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/LtL66cDz/advancements_reloaded-0.6.0-fabric-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/LO8sNMcg/advancements_reloaded-0.7.0-fabric-1.21.3.jar"
 hash-format = "sha512"
-hash = "4c92402cafb680704f4653ea6f4fdaeb3adb64ed3a9918311b1efc9008450105134eb3bf83905d40cd533ee2065a71ea265959910752be3697e5fc680eedb0c8"
+hash = "391e9ebd239097ea46f233e9ebe580ed13331edbf11c885974a4a7b7629741db87dc24feeb596d4d48862fb399fbf0bdbd4b4fef215debe032deedb4dd56cbcd"
 
 [update]
 [update.modrinth]
 mod-id = "tLuRLqpa"
-version = "LtL66cDz"
+version = "LO8sNMcg"

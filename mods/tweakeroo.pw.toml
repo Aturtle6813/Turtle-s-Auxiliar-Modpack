@@ -1,15 +1,15 @@
 name = "tweakeroo"
-filename = "tweakeroo-fabric-1.21.3-0.22.0-sakura.4.jar"
+filename = "tweakeroo-fabric-1.21.3-0.22.0-sakura.6.jar"
 side = "both"
 
 [download]
-url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21.3-0.22.0-sakura.4/tweakeroo-fabric-1.21.3-0.22.0-sakura.4.jar"
+url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21.3-0.22.0-sakura.6/tweakeroo-fabric-1.21.3-0.22.0-sakura.6.jar"
 hash-format = "sha256"
-hash = "10bd026cb298ab82a73d91aaf55bf1988217fdf7a8856e8d38f0abe3030172eb"
+hash = "ad3825d163983bc2976326959532f6ef71dd69ae57a581ac24e559b16849a029"
 
 [update]
 [update.github]
 branch = "pre-rewrite/fabric/1.21.3"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "sakura-ryoko/tweakeroo"
-tag = "1.21.3-0.22.0-sakura.4"
+tag = "1.21.3-0.22.0-sakura.6"
