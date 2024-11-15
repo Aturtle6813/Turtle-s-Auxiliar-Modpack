@@ -123,6 +123,11 @@ hash = "b1cd73231544d2e55928071c3685f6a3df0e8b72725ca6c10d9ee2b7c816b166"
 metafile = true
 
 [[files]]
+file = "mods/caxton.pw.toml"
+hash = "3d22907372cb4f11df01cc02e7c11b96f49d38119a531109902b975e17ee9abd"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "f6135ea20e3a714a43969ed394fab0291e4e3b8a4bee1f8db5c0d74e6f65d0d3"
 metafile = true

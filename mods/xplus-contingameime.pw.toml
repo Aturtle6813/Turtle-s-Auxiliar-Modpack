@@ -11,3 +11,8 @@ hash = "cd8177030eef641e244a0d8cd7802c8de87df3827e38e3ae02f9a11db7f193b5190638d8
 [update.modrinth]
 mod-id = "wsfP1tWd"
 version = "mfFgVwg5"
+
+[option]
+optional = true
+default = true
+description = "You need to disable this on macOS or game will crash"
