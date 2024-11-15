@@ -237,6 +237,11 @@ hash = "38dda442813eae135650869b3d09f709d74ec52edc381a697c967e9fc20ae514"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "1989dfcc9c89cad6ee99095b16fdaf4ad22dc6789464839e3e175a401b367496"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "06ddd8c864842300bce18aee050a9ec6c018cdb0a06508ca2e5c60d76357f814"
 metafile = true
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
-hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
+hash = "0926f08acf9e7a744bb1db794e3ea073a0ee76193b12a571a590ea505fa63592"
 metafile = true
 
 [[files]]
