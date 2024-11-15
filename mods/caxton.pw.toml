@@ -1,0 +1,18 @@
+name = "Caxton"
+filename = "caxton-0.6.0-alpha.4+1.21.3-FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/k4miUQqy/caxton-0.6.0-alpha.4%2B1.21.3-FABRIC.jar"
+hash-format = "sha512"
+hash = "dfdb871122d5f8e4914bc1becf8d1715a53ba3ffa6de94f09bd946cf5dfbe0a4a3b58505ddc0d3af51d6cdf5cf023e14c01224982f37eafd691356d5a62a49a5"
+
+[update]
+[update.modrinth]
+mod-id = "k8iIgzXE"
+version = "k4miUQqy"
+
+[option]
+optional = true
+default = true
+description = "You need to disable this on macOS or game will crash"
