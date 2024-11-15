@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "3d22907372cb4f11df01cc02e7c11b96f49d38119a531109902b975e17ee9abd"
+hash = "a9352b458df25370d013f3c5926b46412704666ba40f50c587c871b3b237f967"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/xplus-contingameime.pw.toml"
-hash = "9a616241cd22b6dd7322f09f430a63c0f66398f5335cc7a28204cbec11d7dded"
+hash = "b4840bbc877cb99019f2d55e03006d9eb1b0f86fc8b62d94f758fba9e5106b70"
 metafile = true
 
 [[files]]
