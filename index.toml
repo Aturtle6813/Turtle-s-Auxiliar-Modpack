@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "7e831dbaafc47bf018d173e5517cdbe69799cf5468dfd272d1e09adf2e47ff99"
+hash = "2a6c4fe7034bd9677d2e2077ae4b50bd8f4df494ef4c257bb631505d85ecb2c0"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "ee89a13b603d8f91125f80992986e696d4e5d2bb91111271ac4ac1c86a34fdbe"
+hash = "a461d4f6c5bf1bb5f4d419d7546998a48a41b076e48fae43951b6b1dc244b79a"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "f0e83e778dc885113aa02d6e03b704f7ce978e4fe6ad51cb67574e98e3154c88"
+hash = "fa780099f75c35963758a0d0709e248c2557f17304579081cc3e07c9eac1bd39"
 metafile = true
 
 [[files]]

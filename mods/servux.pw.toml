@@ -1,15 +1,13 @@
-name = "servux"
-filename = "servux-fabric-1.21.3-0.4.0-sakura.6.jar"
+name = "Servux"
+filename = "servux-fabric-1.21.3-0.4.0.jar"
 side = "server"
 
 [download]
-url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.3-0.4.0-sakura.6/servux-fabric-1.21.3-0.4.0-sakura.6.jar"
-hash-format = "sha256"
-hash = "44949386092d56a811f67018a22e034b5a88d79faac2f54a93da869099fdf164"
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/p7GeaQl8/servux-fabric-1.21.3-0.4.0.jar"
+hash-format = "sha512"
+hash = "a917a8f4adbffd633f9c71d8802bda9cb48c22c1d9d54fdfe901a0481539371692b7df6450887c6865db07b3e23c539fa9911f866f19c7993196ef9aec2e3c85"
 
 [update]
-[update.github]
-branch = "fabric_1.21.3"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "sakura-ryoko/servux"
-tag = "1.21.3-0.4.0-sakura.6"
+[update.modrinth]
+mod-id = "zQhsx8KF"
+version = "p7GeaQl8"
