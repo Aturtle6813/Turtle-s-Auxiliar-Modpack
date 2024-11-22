@@ -113,9 +113,8 @@ hash = "73bdffbc8a86726084d69d39d6c76afd1561965ab1eab8b23835c45b18428be6"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "d212a09a80cce66a6309e7899e5952b5f2195b2d9ed69516a1a77bbe8ed9786e"
-metafile = true
+file = "mods/carpet-tis-addition-v1.64.2-mc1.21.3+build.1848.jar"
+hash = "4a7b74b5f20b892eeb9d4f9a6bee8bbd8c4466bb10d82cff9de1b2dabd2b6d02"
 
 [[files]]
 file = "mods/carpet.pw.toml"
