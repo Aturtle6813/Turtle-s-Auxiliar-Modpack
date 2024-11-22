@@ -1,0 +1,13 @@
+name = "TweakerMore"
+filename = "tweakermore-v3.22.0-mc1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/yVnptsOR/tweakermore-v3.22.0-mc1.21.3.jar"
+hash-format = "sha512"
+hash = "fece0601c19482fea7f00ce6959a53595bb6ccee6fb8be56d16940806c58d6d6e3e5364a1a658241f67ee8e20a46e13fbb6a3d0b77b631a6ea23398fb70dd916"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "yVnptsOR"
