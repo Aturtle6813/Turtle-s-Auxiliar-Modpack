@@ -1,13 +1,13 @@
 name = "Programmer Art Fix"
-filename = "[1.21.3]PAFix-WinterDrop-v1.zip"
+filename = "[1.21.x]ProgrammerArtFix-rv2.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/bgwX5qEs/%5B1.21.3%5DPAFix-WinterDrop-v1.zip"
+url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/XEyJS2Qf/%5B1.21.x%5DProgrammerArtFix-rv2.3.zip"
 hash-format = "sha512"
-hash = "8883b5fd273ec645a656a5969c7d018ccac4f90865484b21e57e688a718fbcb2e48d9093e8a2ee677c3cdb485101dbcefe7801e90b2549e18e5529d473f25942"
+hash = "10a312e9a98be19d58bfda1173082a13acf7ff5eca4f7efe180af0ed8fb24489c252e30b153c548b58144d5f43ab2e7b07e2933ea88b489e566c07a39dc7e855"
 
 [update]
 [update.modrinth]
 mod-id = "d1nRD7RG"
-version = "bgwX5qEs"
+version = "XEyJS2Qf"
