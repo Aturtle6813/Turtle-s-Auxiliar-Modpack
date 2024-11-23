@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "370fc3a0facd20a0fe4374c6d56fa219b6db6bf2a8795d1fa487ea0a24cd8d64"
+hash = "9554f7e0d1c17b9d04272a9e25dd6c73c88b4b325a79976ed4b063390d2b3bf2"
 metafile = true
 
 [[files]]
@@ -286,8 +286,8 @@ hash = "f081dddf8283dd5ba0db0bac8f438f4ce645b9beda391e901f27bbf2f5890d25"
 metafile = true
 
 [[files]]
-file = "mods/itemscroller.pw.toml"
-hash = "5fcbcf00718e1518e6a18e77f12d341a764f850834d952784e57bf510c475567"
+file = "mods/item-scroller.pw.toml"
+hash = "bf5929c784c3be6f8d166e9f09eaa254892bb16c8956481d9051b40e4046eac1"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "d5e0a3c76947a5f4d1e74329929dc00b31fc1b6c4014f7027c9733fc16b05cdd"
+hash = "2c63eb13553dd6f07aa3559c0ca007187966aa8d8f7110eca8637c44d5b0d8c1"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "18e84405b9d90f37ec3e629ea9e4f7ba44bf00734a91617504ff7a2f34e069ed"
+hash = "aa52e54587b5320f5e0fbbcbcbf219ab3ebea2b83a9e88e956c413f5c2ed7ee8"
 metafile = true
 
 [[files]]
@@ -451,11 +451,6 @@ hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "d7bf0435740c458a7b78466f166934e271e09092b46a0f238104d130309a4da6"
-metafile = true
-
-[[files]]
 file = "mods/server-replay.pw.toml"
 hash = "54b2411ae80f9e8f420fda6bf2294d2b609b30fb8aaf431e1112a236a8ca2256"
 metafile = true
@@ -467,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "45f014af98779f008f023fbc8d398b9d1e76ef7f2dfbf9240dbb26fdb4bba4bb"
+hash = "62a1bed98b39caa7582c070a2a742d69e4acdbf5b90ea10310c6cdca1c32624a"
 metafile = true
 
 [[files]]
