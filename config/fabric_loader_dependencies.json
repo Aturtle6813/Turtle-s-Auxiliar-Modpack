@@ -2,11 +2,12 @@
   "version": 1,
   "overrides": {
     "searchables": {
-      "+depends": {
+      "depends": {
         "minecraft": "1.21.3"
-      },
+      }
+    },
     "controlling": {
-      "+depends": {
+      "depends": {
         "minecraft": "1.21.3"
       }
     }
