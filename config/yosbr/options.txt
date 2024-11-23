@@ -1,7 +1,12 @@
-version:3955
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","flat_shulker_icons","file/Translate Mods 1.6.zip","file/NotenoughAnimationsTranslator.zip","file/SodiumTranslations (1).zip","file/advancementinforeloaded汉化.zip","file/masa-mods-chinese.zip","continuity:default","continuity:glass_pane_culling_fix"]
-incompatibleResourcePacks:["appleskin","clientcommands","controlling","jade","jecharacters","magiclib_malilib_extra","magiclib_minecraft_api","modernfix","replaymod","resourcify","searchables","sodiumleafculling","tweakeroo","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/NotenoughAnimationsTranslator.zip"]
-incompatibleResourcePacks:["appleskin","clientcommands","controlling","jade","jecharacters","modernfix","replaymod","resourcify","searchables","tweakeroo","voxelmap","yet_another_config_lib_v3","file/NotenoughAnimationsTranslator.zip"]
+version:4082
+resourcePacks:["vanilla","fabric","flat_shulker_icons","file/NotenoughAnimationsTranslator.zip","continuity:default","continuity:glass_pane_culling_fix","file/Translate Mods 1.6.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.3.zip","file/Chat Reporting Helper.zip","file/advancementinforeloaded汉化.zip","file/masa-mods-chinese.zip","file/SodiumTranslations.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","controlling","jade","jecharacters","magiclib_malilib_extra","magiclib_minecraft_api","mcwifipnp","replaymod","resourcify","searchables","tweakeroo","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/NotenoughAnimationsTranslator.zip","file/Translate Mods 1.6.zip","file/advancementinforeloaded汉化.zip"]]
+fov:0.5
+enableVsync:false
+simulationDistance:5
+showSubtitles:true
+guiScale:3
+maxFps:260
 lang:zh_cn
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
