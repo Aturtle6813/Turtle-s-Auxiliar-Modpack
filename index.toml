@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "6dc8c5a0e965689acd44a6aadabdf702ced150ddc7bb9d592c8cd96f75379141"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
@@ -52,6 +56,10 @@ hash = "b1e21719fef4f45fa2fb38f255f120f731209b09d3fa4baa2d6b8d40e2f29780"
 file = "mods/advancements-reloaded.pw.toml"
 hash = "1f41c1815b61ac258f35dc91f98c80b042387692377b4ed29976b8fe0289b2aa"
 metafile = true
+
+[[files]]
+file = "mods/animatica-0.6.1+1.21.2.jar"
+hash = "587860dda2f714c868b5f084421028816f42099ede6f7fd6155a22c14f17ceaa"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -147,8 +155,8 @@ hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
 
 [[files]]
-file = "mods/continuity-3.0.0-beta.6+1.21.jar"
-hash = "b8496d620a600b0163756be8954ebb529723fdbef763262bfeadfccab6575a65"
+file = "mods/continuity-3.0.0-beta.6+1.21.3.build.111.jar"
+hash = "ed798236676b981ee5f8157c9b158f3d81a0171af74f3bbc1474fafc5c890a48"
 
 [[files]]
 file = "mods/controlify.pw.toml"
