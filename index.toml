@@ -156,6 +156,11 @@ hash = "53bc0362fafb182a3a9e856471c1c10b5dc86f3467cddab26e9c5c1cbc785d60"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "28e9ce027533ac1fc425a2f99f7cbad005f90405c5e1208cb04317a60f29a661"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "d7bf0435740c458a7b78466f166934e271e09092b46a0f238104d130309a4da6"
 metafile = true
 
 [[files]]
