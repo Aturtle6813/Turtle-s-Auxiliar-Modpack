@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "6dc8c5a0e965689acd44a6aadabdf702ced150ddc7bb9d592c8cd96f75379141"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
@@ -286,11 +282,6 @@ hash = "cb0fecdbdc6f0ad5c72181432fecfff479c05e3c5d461b8ffe96a3c3c411cb85"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
-metafile = true
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "7e5032dcf9104af022e3f666587ef21ad3ea838d54ed9453848e622d205d2192"
 metafile = true
@@ -466,8 +457,8 @@ hash = "abc35c208be8ba29a5934254c1813b0ee4bb2e33411c3c625e833271ca95782d"
 metafile = true
 
 [[files]]
-file = "mods/syncmatica-fabric-1.21.3-0.3.13-sakura.1.jar"
-hash = "d953e2d545ed749026934768101718970b17e8508ac3f63b41c6e329bc16b981"
+file = "mods/syncmatica-fabric-1.21.4-0.3.13-sakura.1.jar"
+hash = "a80f0f4d2bd8dace6d7f6531b4c6c225d30b0ad92db9377f053779710d3108d2"
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
