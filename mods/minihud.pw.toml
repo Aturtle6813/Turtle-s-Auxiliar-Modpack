@@ -1,13 +1,15 @@
-name = "MiniHUD"
-filename = "minihud-fabric-1.21.3-0.33.0.jar"
-side = "client"
+name = "minihud"
+filename = "minihud-fabric-1.21.4-0.34.0-sakura.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UMxybHE8/versions/TRIzZybO/minihud-fabric-1.21.3-0.33.0.jar"
-hash-format = "sha512"
-hash = "2246761ad518bea091d42150917cfd519a75bc6937cd3ab14a0ef070de9d1cbffa374ce7446c908e22c75c4a1da3464581cf21dc48b2abeaa1348959d4e688a0"
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21.4-0.34.0-sakura.1/minihud-fabric-1.21.4-0.34.0-sakura.1.jar"
+hash-format = "sha256"
+hash = "5361fee31157b7cdd8580dc676a33cedc6b2f51dced9eb1830c35a3baf824da9"
 
 [update]
-[update.modrinth]
-mod-id = "UMxybHE8"
-version = "TRIzZybO"
+[update.github]
+branch = "pre-rewrite/fabric/1.21.4"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sakura-ryoko/minihud"
+tag = "1.21.4-0.34.0-sakura.1"

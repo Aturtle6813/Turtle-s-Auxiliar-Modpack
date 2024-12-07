@@ -1,0 +1,15 @@
+name = "itemscroller"
+filename = "itemscroller-fabric-1.21.4-0.26.0-sakura.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21.4-0.26.0-sakura.2/itemscroller-fabric-1.21.4-0.26.0-sakura.2.jar"
+hash-format = "sha256"
+hash = "0e353b46296270bb1e08ce6f3acf2c6b442eb52dbaa20bd7ef1e0b4a7b41b533"
+
+[update]
+[update.github]
+branch = "pre-rewrite/fabric/1.21.4"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sakura-ryoko/itemscroller"
+tag = "1.21.4-0.26.0-sakura.2"

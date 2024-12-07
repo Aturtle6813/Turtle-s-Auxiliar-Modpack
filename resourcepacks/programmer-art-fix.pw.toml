@@ -1,13 +1,13 @@
 name = "Programmer Art Fix"
-filename = "[1.21.x]ProgrammerArtFix-rv2.3.zip"
+filename = "[1.21.x]ProgrammerArtFix-rv3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/XEyJS2Qf/%5B1.21.x%5DProgrammerArtFix-rv2.3.zip"
+url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/LROtaSeO/%5B1.21.x%5DProgrammerArtFix-rv3.zip"
 hash-format = "sha512"
-hash = "10a312e9a98be19d58bfda1173082a13acf7ff5eca4f7efe180af0ed8fb24489c252e30b153c548b58144d5f43ab2e7b07e2933ea88b489e566c07a39dc7e855"
+hash = "b5d6b11023d0730465e733410fc65394352cf6c4fce223ae170be0de6d05ee8897da2fd43d3ea130ef519236cc41e74b9413d343360a2848c0d08f0922bf96d2"
 
 [update]
 [update.modrinth]
 mod-id = "d1nRD7RG"
-version = "XEyJS2Qf"
+version = "LROtaSeO"
