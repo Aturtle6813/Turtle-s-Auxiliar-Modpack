@@ -466,6 +466,10 @@ hash = "abc35c208be8ba29a5934254c1813b0ee4bb2e33411c3c625e833271ca95782d"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica-fabric-1.21.3-0.3.13-sakura.1.jar"
+hash = "d953e2d545ed749026934768101718970b17e8508ac3f63b41c6e329bc16b981"
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "82f38a418e9d23011ce3ac428682752b4b3148c5fcf167d79303480cef83babb"
 metafile = true
