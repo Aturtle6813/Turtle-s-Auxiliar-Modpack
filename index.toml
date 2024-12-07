@@ -156,32 +156,8 @@ hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
 metafile = true
 
 [[files]]
-file = "mods/continuity-3.0.0-beta.6+1.21.3.build.111.jar"
-hash = "ed798236676b981ee5f8157c9b158f3d81a0171af74f3bbc1474fafc5c890a48"
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "53bc0362fafb182a3a9e856471c1c10b5dc86f3467cddab26e9c5c1cbc785d60"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "28e9ce027533ac1fc425a2f99f7cbad005f90405c5e1208cb04317a60f29a661"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "c9f6fddd5ac8862655e4f5fef899f440e63e56281f80687c602f957ae7bc2cde"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "4d2c83341f911e62074b763440f5b8553096c66dadd599c61cb74493ec99d079"
 metafile = true
 
 [[files]]
@@ -250,11 +226,6 @@ hash = "fdbaca2456b22d8df8fb7813a588cf14174cab04017eef1e160ebcf88086e994"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
-metafile = true
-
-[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "fcbbd96ed52c093a15c1c38a17ef1706729c4cb4502a24e783733a0f47722827"
 metafile = true
@@ -275,11 +246,6 @@ hash = "bd82508b1c66ebedabc80eff6af6c15a872853ee093f26cc2db62d0db1ba5219"
 metafile = true
 
 [[files]]
-file = "mods/hey-wiki.pw.toml"
-hash = "f9ce515d4e3b8fca9f7e2d7e800f89557d12078733f62bf9c87de7eb83004e72"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "d39ef2c140cf5cb84429c9c7546fa2e1b3c18d7bfd8027fed27dc3fbdee19be0"
 metafile = true
@@ -287,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/hswf3.pw.toml"
 hash = "b1d7033dfe049cc4c199cbc0bdc6bbbacb4a71d02cfaa31c7a07b9064e635e12"
-metafile = true
-
-[[files]]
-file = "mods/i18nupdatemod.pw.toml"
-hash = "0926f08acf9e7a744bb1db794e3ea073a0ee76193b12a571a590ea505fa63592"
 metafile = true
 
 [[files]]
@@ -337,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "bcbb257fa5a3130cc0a5bbc2a8cb43c67ab746fcce5b85956abfea4d67ff8df8"
-metafile = true
-
-[[files]]
-file = "mods/magiclib-dev.pw.toml"
-hash = "b22a64f73f381a1efabfa43bdfd29f14767850e7fb00d98fb24547c8ad77e66c"
 metafile = true
 
 [[files]]
@@ -400,11 +356,6 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
-metafile = true
-
-[[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "9bf6909495892a39adf910ded0bacbf333cfdafae3e2db3a4e661241001fc444"
 metafile = true
@@ -412,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "c858f256bcea40dc00396054c58221cf0e889a1d7a827f66f8fe322104592222"
 metafile = true
 
 [[files]]
@@ -435,11 +381,6 @@ hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "7406e0c93f64db6bf4bf5460fccfe44481d9a07e1584bf5ee1d41a57223945b5"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8518c9db9d7242c3ec1f1f619c9c887d300c7d6c37ecbea35e8cb2b97c17f625"
 metafile = true
@@ -455,28 +396,13 @@ hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "1a2487e3aa6569f30117b27ffbbb35792c8b9f1880dc48cf4f48138a642741a8"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "faf73f436a58c66ae9731ccc082596cd73954da0c3b60bf8e93033a760a80707"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98418e96883364e79004119b2ef6b77cf1d4e6d5184972ce946d5f6df0675caa"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "d7bf0435740c458a7b78466f166934e271e09092b46a0f238104d130309a4da6"
 metafile = true
 
 [[files]]
@@ -512,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4ee204932077b04537814313c3dd4ed82fe2e8bf4b2dbb3fbcee7109852e1375"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-refurbished.pw.toml"
-hash = "ce19ee6342f579dceca5aefe0cbe2dc03d78cd0b65e9f961cc4c956d285981b8"
 metafile = true
 
 [[files]]
