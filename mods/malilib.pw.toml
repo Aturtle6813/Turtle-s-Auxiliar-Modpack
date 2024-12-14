@@ -1,15 +1,15 @@
 name = "malilib"
-filename = "malilib-fabric-1.21.4-0.23.0-sakura.1.jar"
+filename = "malilib-fabric-1.21.4-0.23.0-sakura.3.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.1/malilib-fabric-1.21.4-0.23.0-sakura.1.jar"
+url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.3/malilib-fabric-1.21.4-0.23.0-sakura.3.jar"
 hash-format = "sha256"
-hash = "fc8e27a56b5e1e79807d94797d8736584f078aa49a72a55e400d729d8e08a789"
+hash = "101f9d6531a1317ddba59e8f02ab9cf2072b433f7c8f8f82a97f7d85783385f2"
 
 [update]
 [update.github]
 branch = "pre-rewrite/fabric/1.21.4"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "sakura-ryoko/malilib"
-tag = "1.21.4-0.23.0-sakura.1"
+tag = "1.21.4-0.23.0-sakura.3"

@@ -1,13 +1,13 @@
 name = "Programmer Art Fix"
-filename = "[1.21.x]ProgrammerArtFix-rv3.zip"
+filename = "[1.21.x]ProgrammerArtFix-rv3.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/LROtaSeO/%5B1.21.x%5DProgrammerArtFix-rv3.zip"
+url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/HlFVhWPh/%5B1.21.x%5DProgrammerArtFix-rv3.1.zip"
 hash-format = "sha512"
-hash = "b5d6b11023d0730465e733410fc65394352cf6c4fce223ae170be0de6d05ee8897da2fd43d3ea130ef519236cc41e74b9413d343360a2848c0d08f0922bf96d2"
+hash = "6eef3a801dcbc6e9d1500a433802bd911a68f292e6c8537371d0e053e803fe9b3ed0e69d98aafb22a3c8e78e34d4ff9532b4e3cf083532afe147baa17774491c"
 
 [update]
 [update.modrinth]
 mod-id = "d1nRD7RG"
-version = "LROtaSeO"
+version = "HlFVhWPh"

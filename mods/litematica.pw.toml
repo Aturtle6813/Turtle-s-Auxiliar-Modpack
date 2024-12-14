@@ -1,15 +1,15 @@
 name = "litematica"
-filename = "litematica-fabric-1.21.4-0.21.0-sakura.2.jar"
+filename = "litematica-fabric-1.21.4-0.21.0-sakura.6.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.2/litematica-fabric-1.21.4-0.21.0-sakura.2.jar"
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.6/litematica-fabric-1.21.4-0.21.0-sakura.6.jar"
 hash-format = "sha256"
-hash = "539830a6d29db3ef1f16747938b8b9bf6dc9041a7bd5fca71040276b909f4f35"
+hash = "3903758d2821383a4d88c12bec2bbbff2408787e38178dd2d1a2af7ef3a35876"
 
 [update]
 [update.github]
 branch = "pre-rewrite/fabric/1.21.4"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "sakura-ryoko/litematica"
-tag = "1.21.4-0.21.0-sakura.2"
+tag = "1.21.4-0.21.0-sakura.6"
