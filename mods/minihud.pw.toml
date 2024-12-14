@@ -1,6 +1,6 @@
 name = "minihud"
 filename = "minihud-fabric-1.21.4-0.34.0-sakura.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21.4-0.34.0-sakura.1/minihud-fabric-1.21.4-0.34.0-sakura.1.jar"

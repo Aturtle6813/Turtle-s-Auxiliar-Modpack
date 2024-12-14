@@ -1,6 +1,6 @@
 name = "itemscroller"
 filename = "itemscroller-fabric-1.21.4-0.26.0-sakura.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21.4-0.26.0-sakura.2/itemscroller-fabric-1.21.4-0.26.0-sakura.2.jar"

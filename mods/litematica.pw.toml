@@ -1,6 +1,6 @@
 name = "litematica"
 filename = "litematica-fabric-1.21.4-0.21.0-sakura.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.2/litematica-fabric-1.21.4-0.21.0-sakura.2.jar"

@@ -1,6 +1,6 @@
 name = "tweakeroo"
 filename = "tweakeroo-fabric-1.21.4-0.23.0-sakura.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21.4-0.23.0-sakura.1/tweakeroo-fabric-1.21.4-0.23.0-sakura.1.jar"
