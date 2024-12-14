@@ -1,0 +1,7 @@
+name = "gca"
+filename = "gugle-carpet-addition-mc1.21.4-2.9.0.jar"
+
+[download]
+url = "https://github.com/Fungus-00/gugle-carpet-addition/releases/download/2.7.0/gugle-carpet-addition-mc1.21.4-2.9.0.jar"
+hash-format = "sha256"
+hash = "e8dca2b849c13a86c897370c84ac8b408607be5623c6566589fe2cfe7e45cb57"
