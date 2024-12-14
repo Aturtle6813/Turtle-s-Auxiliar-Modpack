@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
+hash = "bae6c7361d1a1dd2ff099c563226526fd86069d68f6bb242bbae1a610a173204"
 metafile = true
 
 [[files]]
@@ -227,6 +227,11 @@ hash = "fcbbd96ed52c093a15c1c38a17ef1706729c4cb4502a24e783733a0f47722827"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "38b0568f23ae1f8e6138ef1c0f13b487103b345068c57b99723e4dfc5358a885"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "38dda442813eae135650869b3d09f709d74ec52edc381a697c967e9fc20ae514"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/gca.pw.toml"
 hash = "a268faae67a395fa64bb77b618888d374534305149935bcc22ed8fc3f7445af5"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "e3b5ba4bbe4ec0e1ae60e1b22391a88c20bb96ca9b90d27ee6527e636c17c377"
 metafile = true
 
 [[files]]
