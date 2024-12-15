@@ -1,13 +1,13 @@
 name = "Auth Me"
-filename = "authme-8.0.0+1.21.3.jar"
+filename = "authme-8.0.0+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/P5KdF8uU/authme-8.0.0%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/TaEUeoLe/authme-8.0.0%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "62482282997c77ad1090dc8c027cc2562c1952144e24df5b2117578489bdbb5607806aa4a27bd7faa751f248f31612a5be68c6a919a2700cd45aa616b37056d3"
+hash = "7105993ebfbe15f8698635d5d8637ff18b795554d15e83b02509ade81be7c1331477255b835716789998316854917f15feea470bdc77613beb3b997484c15a41"
 
 [update]
 [update.modrinth]
 mod-id = "yjgIrBjZ"
-version = "P5KdF8uU"
+version = "TaEUeoLe"
