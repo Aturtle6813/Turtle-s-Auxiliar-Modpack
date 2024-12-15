@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "d142ed11ea6d49755ff160532d99e5733c9d76dc20c461b43a55d0b6102cbb81"
+hash = "966652d2518ea20b988cdce89f41b8d776c249cdbe2906c7e98e9eda61b2a56f"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e3b5ba4bbe4ec0e1ae60e1b22391a88c20bb96ca9b90d27ee6527e636c17c377"
+hash = "90fe52ef547bc5a233823167ce204ffcf2131793d165e2e74ae5536a058ba00b"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5b1bc48f697f738fbc8c29a2735f5ee415d37c72a50783ce73e11c04087aa08e"
+hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "3a6424a120d3edf988c907f635b0336099b4cf9b366c8b1e5762cf9603d8bd1a"
+hash = "735fda3406823ac4001cd2ff295c6197aed8d3804252c8e5e763456d634762c4"
 metafile = true
 
 [[files]]
@@ -615,6 +615,11 @@ hash = "8d4ef54b5da8007d17fea93efb1584d3d41b05e1b6953eeb7dc39210eb9b0255"
 metafile = true
 
 [[files]]
+file = "resourcepacks/in-your-own-appleskin.pw.toml"
+hash = "af93f89983202b9a69182d3573a046e617c69a785d914ed1fc1b03ba6d4ea7f8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
 hash = "bf695c5ab8c60f317bf5583b572e33d5bea1035239ff9abc7aff73b60f8fa6fc"
 metafile = true
@@ -627,6 +632,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
 hash = "4f5345a5dd5308e399ffc47301f4945e495360af4347c10818746a0fc082ea41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/re-ocd.pw.toml"
+hash = "3818f16a9c649f8e138a949920ecc10e23d7875e8adcbd51df75bfe225cd011c"
 metafile = true
 
 [[files]]
