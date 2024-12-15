@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "5fb9a78e57ab296c8077e6167f23eff43321dece11bbb53339fb3c00ce38b0d0"
+hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
 metafile = true
 
 [[files]]
@@ -294,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughcharacters.pw.toml"
 hash = "271c67f13e395efc13afbc936da23b655fe8f29e9f996635caaee04f83b69104"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
