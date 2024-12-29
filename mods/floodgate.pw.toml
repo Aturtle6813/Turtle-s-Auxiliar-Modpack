@@ -11,3 +11,8 @@ hash = "5f759ded6efa72513ff82573263a9fa24146245bc80fc4b6c15f574f0923c24dd3a02a6c
 [update.modrinth]
 mod-id = "bWrNNfkb"
 version = "jb3lzved"
+
+[option]
+optional = true
+description = "Minecraft:Java Edition Account for Bedrock players that from Geyser"
+default = true

@@ -11,3 +11,8 @@ hash = "f85ffe12f18933e64a3c6464c1f97ccdc9ec9b220a211dbd94f48751d4dc6683c6279cdf
 [update.modrinth]
 mod-id = "wKkoqHrH"
 version = "LRKpBXy0"
+
+[option]
+optional = true
+description = "Bedrock player support for server"
+default = true

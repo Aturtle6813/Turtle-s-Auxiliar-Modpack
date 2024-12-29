@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "38b0568f23ae1f8e6138ef1c0f13b487103b345068c57b99723e4dfc5358a885"
+hash = "234a88bd52f7e419c3ef667193822c42d305d6080702579bcad43c886f68d2c3"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "44ba51dd2c0bc5a706a929a81f0a06b4a3d82b6f234a7c30d4a661f17760f152"
+hash = "bcf9d75cfde4fae342144dc67d6e6e2cf8bd1c79361bd3f8d6aed9a40ad86c70"
 metafile = true
 
 [[files]]
@@ -294,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/hswf3.pw.toml"
 hash = "b1d7033dfe049cc4c199cbc0bdc6bbbacb4a71d02cfaa31c7a07b9064e635e12"
+metafile = true
+
+[[files]]
+file = "mods/hurricane.pw.toml"
+hash = "19d3a8654eb1126e33d373de2acb12bb2db4e2728c2f04895793f9f2a5230995"
 metafile = true
 
 [[files]]
@@ -339,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "cc4e11b7abae1caea821b623218617e40ae9b8009b29ea3d5a770dc805208977"
 metafile = true
 
 [[files]]
@@ -409,11 +419,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
 metafile = true
 
 [[files]]
@@ -542,8 +547,8 @@ hash = "735fda3406823ac4001cd2ff295c6197aed8d3804252c8e5e763456d634762c4"
 metafile = true
 
 [[files]]
-file = "mods/syncmatica-fabric-1.21.4-0.3.13-sakura.1.jar"
-hash = "a80f0f4d2bd8dace6d7f6531b4c6c225d30b0ad92db9377f053779710d3108d2"
+file = "mods/syncmatica-fabric-1.21.4-0.3.13-sakura.2.jar"
+hash = "178e8b8b140b2a2312fedcce6362da77e1d2d7240f825c985f9d1ee66972f661"
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
@@ -657,11 +662,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "22414b0366702590284be457e3541e08486c684b76bdf538c2d0f42fdaae90e0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
 
 [[files]]

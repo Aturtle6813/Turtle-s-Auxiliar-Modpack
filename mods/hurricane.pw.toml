@@ -1,0 +1,18 @@
+name = "Hurricane"
+filename = "hurricane-fabric-2.1.0+build.183.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKrS5WCg/versions/5pD5TgTl/hurricane-fabric-2.1.0%2Bbuild.183.jar"
+hash-format = "sha512"
+hash = "41d5dcf49b774fdf230c391b527933c1820fc6b82f760d36117f44bc6610ef4512e417e8cba00e6aecf6999eceb79caff55d1e79f716c7df3849e25c96833e1c"
+
+[update]
+[update.modrinth]
+mod-id = "cKrS5WCg"
+version = "5pD5TgTl"
+
+[option]
+optional = true
+description = "Mods that fixes some issues from Geyser"
+default = true
