@@ -9,6 +9,10 @@ file = "config/yosbr/config/authme.json5"
 hash = "755a3fb0f051f76d3c1fbf726d7b42f3efe134c9d86d4269ef1aae840da2e723"
 
 [[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "27cab50ad04123783a559d91dabdba05c58e7044b636ecb3437630b1026cd5e0"
+
+[[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
 hash = "b01b02ac143fa7ace873d3b461b862f5d40620835eef20c5a2c36e89bd9974fa"
 
