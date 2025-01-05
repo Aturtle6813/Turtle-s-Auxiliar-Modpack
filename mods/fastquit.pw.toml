@@ -1,0 +1,15 @@
+name = "FastQuit"
+filename = "fastquit-3.0.0+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/megabyte6/FastQuit/releases/download/v3.0.0-1.21.4/fastquit-3.0.0%2B1.21.4.jar"
+hash-format = "sha256"
+hash = "ed9f739de930c3104b8f22abd4ea05027f3700d68cc9a590f9bb1dd1554992fc"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "megabyte6/FastQuit"
+tag = "v3.0.0-1.21.4"
