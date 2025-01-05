@@ -520,11 +520,6 @@ hash = "55cb0143330095f2132926ff85dd7264d627880e709bffea1bd1e03edc7eddbf"
 metafile = true
 
 [[files]]
-file = "mods/serverlinkssender.pw.toml"
-hash = "04be331ee74b7760aa33729da628362fd9d9818d979fa758d3b7a98fe56661fb"
-metafile = true
-
-[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "79788a85c3b4f8123c79f1f646679c3670d145776f3c67f2de3a4e703c138666"
 metafile = true
