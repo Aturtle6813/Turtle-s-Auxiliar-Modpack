@@ -1,13 +1,13 @@
 name = "Carpet Org Addition"
-filename = "carpet-org-addition-mc1.21.4-v1.35.0-2412041219.jar"
+filename = "carpet-org-addition-mc1.21.4-v1.35.1-2501131827.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/L0bOPIqR/versions/R20UwSIZ/carpet-org-addition-mc1.21.4-v1.35.0-2412041219.jar"
+url = "https://cdn.modrinth.com/data/L0bOPIqR/versions/E9DTSmfm/carpet-org-addition-mc1.21.4-v1.35.1-2501131827.jar"
 hash-format = "sha512"
-hash = "b3ab2ef37983e2214476c308d15af8a5a94cbd01fc754873c634b22e853064ff2df54aced2e38f22c0b0da116b7a810ed1c790befd90542cd9c60e8a9f222d8b"
+hash = "1af33fa0c1bd1c0f84cdfd6cbbe045b37c43d8588201ee37ca89ef9e97ccda8cc37f5e411b5c65c2b75b8ad5839bf064c21e5f4b36ccb1c06dfa595d0855cc6a"
 
 [update]
 [update.modrinth]
 mod-id = "L0bOPIqR"
-version = "R20UwSIZ"
+version = "E9DTSmfm"

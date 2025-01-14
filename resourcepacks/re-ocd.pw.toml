@@ -1,13 +1,13 @@
 name = "rE-oCd"
-filename = "rE-oCd-121.zip"
+filename = "rE-oCd-1214.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lkoaSYls/versions/m6GVKVY8/rE-oCd-121.zip"
+url = "https://cdn.modrinth.com/data/lkoaSYls/versions/qYqshmT8/rE-oCd-1214.zip"
 hash-format = "sha512"
-hash = "1dca73b6758c721c52f0ce0f02f7c08a5868d7f2f8a8c1b93a5d1714276357c3b3e2c96acc49a332ce7047be03aeef1779e45633d6d56ef293ef651fdfa28ce3"
+hash = "53bd8baaf12fc221836e3abfc949886cae143bf29d93ee432a3f829c2cd565c1095fa42eec1dad2f8c455d84bbd3e8cf0bf0ea50d2d2e1adba673c230b0b752b"
 
 [update]
 [update.modrinth]
 mod-id = "lkoaSYls"
-version = "m6GVKVY8"
+version = "qYqshmT8"

@@ -1,13 +1,13 @@
 name = "Redstone Display Overlaid"
-filename = "ZiYunPixel-v1.4.zip"
+filename = "解压(Decompression).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/GvtgXsdU/ZiYunPixel-v1.4.zip"
+url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/5e9LOAEe/%E8%A7%A3%E5%8E%8B%28Decompression%29.zip"
 hash-format = "sha512"
-hash = "81df0d7d35cbb292bdf2d725b94a6dfb1211bddd6432276f0b839b9d8f51626ae6def8d23ddb026f5d5d1f1b262f5aa6e376be39daedaa81f689aa64f945005d"
+hash = "3825ddeff352bafd8afbeb04893ce4aabb098be8f24d8c77b2b711b0eb1b83a7c8a5d468cf46ae422e90c2a874efc077062b49a88a9c9825f390dfe25c9a6377"
 
 [update]
 [update.modrinth]
 mod-id = "4PRyIWGr"
-version = "GvtgXsdU"
+version = "5e9LOAEe"
