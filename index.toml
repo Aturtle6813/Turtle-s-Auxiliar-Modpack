@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "ac535c71e3a1cbabbd76addb4fe6211e80ed35335dd45493212d73fbfdfee3f6"
+hash = "0796653f7c4bbe4247cca2d0d8a617266013384e94a2eb2309185637f5cfe21b"
 metafile = true
 
 [[files]]
@@ -375,6 +375,11 @@ hash = "cd1ae37e6094523c9e261c7dbb83138b785ddaf44fd4e0edba76229b2728de43"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "a9ddc5125a43eebb433953d234bffeb58ea463098fa8874374408cb41d0fcddf"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "bb039470d6643b00dca912699715ba1c7264c2e7f5a617c4417b0aee53bf24a8"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+metafile = true
+
+[[files]]
+file = "mods/masa-gadget-dev.pw.toml"
+hash = "0508cfa9bec3e6415a513bc1424c71080ee610632bcfe8e01283db1b5cfd7fa0"
 metafile = true
 
 [[files]]
