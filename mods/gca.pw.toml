@@ -1,7 +1,13 @@
-name = "gca"
-filename = "gugle-carpet-addition-mc1.21.4-2.9.0.jar"
+name = "GugleCarpetAddition"
+filename = "gugle-carpet-addition-mc1.21.4-v2.10.0+build.4.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Fungus-00/gugle-carpet-addition/releases/download/2.7.0/gugle-carpet-addition-mc1.21.4-2.9.0.jar"
-hash-format = "sha256"
-hash = "e8dca2b849c13a86c897370c84ac8b408607be5623c6566589fe2cfe7e45cb57"
+url = "https://cdn.modrinth.com/data/UHjbX5mk/versions/LkQf4fUH/gugle-carpet-addition-mc1.21.4-v2.10.0%2Bbuild.4.jar"
+hash-format = "sha512"
+hash = "a371eb80e51a2e9a1e92e764322b97bf37778b462820ea1299b26f5eb12ada83e4a6c2d195445a33bf1ca2c263557b9b40dbbe167f261d68ee2c28e8fcfe601d"
+
+[update]
+[update.modrinth]
+mod-id = "UHjbX5mk"
+version = "LkQf4fUH"
