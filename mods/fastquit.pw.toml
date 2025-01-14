@@ -1,6 +1,6 @@
 name = "FastQuit"
 filename = "fastquit-3.0.0+1.21.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/megabyte6/FastQuit/releases/download/v3.0.0-1.21.4/fastquit-3.0.0%2B1.21.4.jar"
