@@ -1,18 +1,18 @@
 name = "XPlus ContingameIME"
-filename = "XPlusContingameIME-1.1.0-xplus-1.21-fabric.jar"
+filename = "XPlusContingameIME-1.2.0-xplus-1.21.x-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wsfP1tWd/versions/mfFgVwg5/XPlusContingameIME-1.1.0-xplus-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/wsfP1tWd/versions/Js9MZXWz/XPlusContingameIME-1.2.0-xplus-1.21.x-fabric.jar"
 hash-format = "sha512"
-hash = "cd8177030eef641e244a0d8cd7802c8de87df3827e38e3ae02f9a11db7f193b5190638d8419f34f519619051ac3579ee950109a27b92dae9e0c44225a5ac44a3"
+hash = "389fb3a791695f58f3f2b07fd8038037284cbba3cbd58d171e83de8662ccfb4d95121f7d4c6671cf46918bcf4609e4dd75c44cc00c84ee911b15755b19137ae2"
 
 [update]
 [update.modrinth]
 mod-id = "wsfP1tWd"
-version = "mfFgVwg5"
+version = "Js9MZXWz"
 
 [option]
 optional = true
-default = true
 description = "You need to disable this on macOS or game will crash"
+default = true
