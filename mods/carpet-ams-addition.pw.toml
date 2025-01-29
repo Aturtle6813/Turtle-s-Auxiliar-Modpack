@@ -1,13 +1,13 @@
 name = "Carpet AMS Addition"
-filename = "Carpet-AMS-Addition-mc1.21.4-fabric-v2.52.0.jar"
+filename = "Carpet-AMS-Addition-mc1.21.4-fabric-v2.53.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q4fx1eTg/versions/nbuW2KAY/Carpet-AMS-Addition-mc1.21.4-fabric-v2.52.0.jar"
+url = "https://cdn.modrinth.com/data/q4fx1eTg/versions/uJGIJXgy/Carpet-AMS-Addition-mc1.21.4-fabric-v2.53.0.jar"
 hash-format = "sha512"
-hash = "db54a71fbf67f30c8acc2e6defa2e83a90ef6c9080b41c35df96ac6cd011f8d552cd1fbadae0e44537c58048d3d58fea87ddc2e08f50bf258fd5051686918646"
+hash = "59568e3bbb6216bc8d947cd072338e2428f3b008f3915630b8d6b99efd905c3700575cfb44a0c046e2f9c285da48b63b85cf38629cb3c613462574f9ae0a0489"
 
 [update]
 [update.modrinth]
 mod-id = "q4fx1eTg"
-version = "nbuW2KAY"
+version = "uJGIJXgy"

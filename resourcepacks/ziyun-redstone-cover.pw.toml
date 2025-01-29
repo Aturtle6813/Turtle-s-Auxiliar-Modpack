@@ -3,11 +3,11 @@ filename = "解压(Decompression).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/5e9LOAEe/%E8%A7%A3%E5%8E%8B%28Decompression%29.zip"
+url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/9HWBOqBQ/%E8%A7%A3%E5%8E%8B%28Decompression%29.zip"
 hash-format = "sha512"
-hash = "3825ddeff352bafd8afbeb04893ce4aabb098be8f24d8c77b2b711b0eb1b83a7c8a5d468cf46ae422e90c2a874efc077062b49a88a9c9825f390dfe25c9a6377"
+hash = "d42c5dbb6884efcc9b8849f19a9c4813355c19d07898a8a88af811e3339e747b2aeaa447956e3b464121f4d19f7a7aa7dc09f8e636c4bfbe899745d2096cd97b"
 
 [update]
 [update.modrinth]
 mod-id = "4PRyIWGr"
-version = "5e9LOAEe"
+version = "9HWBOqBQ"

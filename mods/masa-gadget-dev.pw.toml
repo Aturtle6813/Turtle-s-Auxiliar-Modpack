@@ -1,13 +1,13 @@
 name = "Masa Gadget Dev"
-filename = "MasaGadget-mc1.21.4-fabric-4.0.384-development.jar"
+filename = "MasaGadget-mc1.21.4-fabric-4.0.388-development.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qGUUhBWE/versions/dkWjgnRF/MasaGadget-mc1.21.4-fabric-4.0.384-development.jar"
+url = "https://cdn.modrinth.com/data/qGUUhBWE/versions/gemKSSDL/MasaGadget-mc1.21.4-fabric-4.0.388-development.jar"
 hash-format = "sha512"
-hash = "0fa928c01acca0a609d75f7ea6672415157a72eb29caf1fa5ee86fea32b2c98ffb93843b782d509b75a7a1ca85946b2c28730e70fcf3e44e7e8468a93310bec6"
+hash = "92735ba478b555fd548262c9ee86e5876ecdd3c1e003756eb136246de100442a9ec744075cdd86da07d4d4c5271e1633c85191f33bfdaed21ba7fc2ace3141ef"
 
 [update]
 [update.modrinth]
 mod-id = "qGUUhBWE"
-version = "dkWjgnRF"
+version = "gemKSSDL"
