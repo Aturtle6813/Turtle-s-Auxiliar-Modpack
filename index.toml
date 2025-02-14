@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
+hash = "34f76ee3754c91d7493931fdf0df27e8788b336277efc90ced549ec27a1fc5b7"
 metafile = true
 
 [[files]]
@@ -243,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0ed5ad630aabb0c3ca89f413a6dba81734e378e8bc825b7d8ca0f9349d7d0b27"
-metafile = true
-
-[[files]]
-file = "mods/fabric-carpet.pw.toml"
-hash = "0796653f7c4bbe4247cca2d0d8a617266013384e94a2eb2309185637f5cfe21b"
 metafile = true
 
 [[files]]
