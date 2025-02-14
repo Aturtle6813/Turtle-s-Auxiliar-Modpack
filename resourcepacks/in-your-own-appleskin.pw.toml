@@ -3,11 +3,11 @@ filename = "In-your-own-appleskin.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y0zGHSMx/versions/c9chRo3t/In-your-own-appleskin.zip"
+url = "https://cdn.modrinth.com/data/y0zGHSMx/versions/S2zFDcjz/In-your-own-appleskin.zip"
 hash-format = "sha512"
-hash = "957e48ecc570bc79785c9cb7becabaa1eaec92ff6361aa1b0582f65541a9f529df832f9cfe11f85bef15336c03f620ce4214ba15db967bc7d0cfa4d9f0f8c820"
+hash = "f692f754f5255d6d91d8f123257abc0df6adb6218dc569b96cb1a31f7ed07e69e924098d6f4cfd98be325592166ced600ba9f513302a219a2e631b034b19dac7"
 
 [update]
 [update.modrinth]
 mod-id = "y0zGHSMx"
-version = "c9chRo3t"
+version = "S2zFDcjz"

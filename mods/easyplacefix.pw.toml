@@ -1,13 +1,13 @@
 name = "EasyPlaceFix"
-filename = "EasyPlaceFix-0.3.5.jar"
+filename = "EasyPlaceFix-0.4.2-1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PTkF76pD/versions/WxICUTXi/EasyPlaceFix-0.3.5.jar"
+url = "https://cdn.modrinth.com/data/PTkF76pD/versions/M3upuFw1/EasyPlaceFix-0.4.2-1.20.4.jar"
 hash-format = "sha512"
-hash = "fc0d624faf1cefb691409b0de3ea607d8ef2af6c327748cb44453566de1fcbd66893d4a1b14201e2f98ccb9f3ef127f4063ab44a615ac828439893a1dfd6d9fe"
+hash = "33b71edbad4adb8d9bd10781641c002ed997014912df4146f8ae38be9c352f276289eabae050bc28218cbae99b40066160a410e0e600ea26b05ba07fd358c9e9"
 
 [update]
 [update.modrinth]
 mod-id = "PTkF76pD"
-version = "WxICUTXi"
+version = "M3upuFw1"
