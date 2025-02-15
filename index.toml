@@ -58,8 +58,9 @@ hash = "39298ce775235f011c91c1f9ecb6c81b394773eaeaeecd7bcfd69c704e200937"
 metafile = true
 
 [[files]]
-file = "mods/animatica-0.6.1+1.21.2.jar"
-hash = "587860dda2f714c868b5f084421028816f42099ede6f7fd6155a22c14f17ceaa"
+file = "mods/animatica.pw.toml"
+hash = "4e43c7d673754b4de880d6808657e4af6b16b077674c278606e12613c433d897"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -109,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/caramelChat-mc1.21.1-fabric-1.2.1-SNAPSHOT.jar"
 hash = "b81b6994fd501fe700f421007a5ac7f36d70fc7f98b696122b3d8193c861ab21"
+
+[[files]]
+file = "mods/caramelchat.pw.toml"
+hash = "63a180d935a8c744ca1b6f3a70eba05a988f053cdd80e1cc48d7a1a5fabff897"
+metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
