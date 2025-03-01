@@ -1,13 +1,13 @@
 name = "EasyPlaceFix"
-filename = "EasyPlaceFix-0.4.2-1.20.4.jar"
+filename = "EasyPlaceFix-0.4.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PTkF76pD/versions/M3upuFw1/EasyPlaceFix-0.4.2-1.20.4.jar"
+url = "https://cdn.modrinth.com/data/PTkF76pD/versions/AIjraoQL/EasyPlaceFix-0.4.5.jar"
 hash-format = "sha512"
-hash = "33b71edbad4adb8d9bd10781641c002ed997014912df4146f8ae38be9c352f276289eabae050bc28218cbae99b40066160a410e0e600ea26b05ba07fd358c9e9"
+hash = "8ba23996e31390018d12d39dbd70269b43ef8e9074932bdde7e38edb1059f8a57dd9e9a0a82db2f66fe8387a60f66b6b12179d6c9720a53bb2451cb34661b2fa"
 
 [update]
 [update.modrinth]
 mod-id = "PTkF76pD"
-version = "M3upuFw1"
+version = "AIjraoQL"
