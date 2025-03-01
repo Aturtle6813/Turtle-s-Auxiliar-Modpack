@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/pca-protocol.pw.toml"
-hash = "a678ddf76d25a2f935655be4a9bda9f04a0d40bb44d67b7bad24884f8adc6b8a"
+hash = "aedd71b0f18f6f532307e150ce560fe760f6c9d88413ecb502f5c6a1426dd310"
 metafile = true
 
 [[files]]
