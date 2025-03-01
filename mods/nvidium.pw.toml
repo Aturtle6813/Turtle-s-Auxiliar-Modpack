@@ -1,0 +1,15 @@
+name = "nvidium"
+filename = "nvidium-0.3.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/drouarb/nvidium/releases/download/0.3.3-beta/nvidium-0.3.3-beta.jar"
+hash-format = "sha256"
+hash = "504381c47f5435b0c97b4819d122a7d09318437faaf8ec2254b3b892e5930dba"
+
+[update]
+[update.github]
+branch = "1.21.4"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "drouarb/nvidium"
+tag = "0.3.3-beta"
